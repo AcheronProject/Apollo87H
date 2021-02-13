@@ -1,0 +1,3 @@
+[submodule "kicad_files/AcheronLibrary"]
+	path = kicad_files/AcheronLibrary
+	url = git@github.com:AcheronProject/AcheronLibrary.git

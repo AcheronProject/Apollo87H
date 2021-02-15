@@ -5,4 +5,6 @@
   (lib (name "apollo87h_kicad_library")(type "KiCad")(uri "${KIPRJMOD}/apollo87h_kicad_library.pretty")(options "")(descr ""))
   (lib (name "acheron_MXH")(type "KiCad")(uri "${KIPRJMOD}/AcheronLibrary/footprints/acheron_MXH_MetalRings.pretty")(options "")(descr ""))
   (lib (name "acheron_MountingHoles")(type "KiCad")(uri "${KIPRJMOD}/AcheronLibrary/footprints/acheron_MountingHoles.pretty")(options "")(descr ""))
+  (lib (name "acheron_Logos")(type "KiCad")(uri "${KIPRJMOD}/AcheronLibrary/footprints/acheron_Logos.pretty")(options "")(descr ""))
+  (lib (name "acheron_Graphics")(type "KiCad")(uri "${KIPRJMOD}/AcheronLibrary/footprints/acheron_Graphics.pretty")(options "")(descr ""))
 )

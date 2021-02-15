@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.0
+          "min_clearance": 0.15239999999999998
         }
       },
       "diff_pair_dimensions": [
@@ -346,7 +346,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "unannotated": "error",
@@ -394,7 +394,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "apollo87h_topconnector.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -402,11 +402,32 @@
   "schematic": {
     "drawing": {
       "default_bus_thickness": 12.0,
-      "default_junction_size": 40.0,
+      "default_junction_size": 36.0,
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
       "default_wire_thickness": 6.0,
-      "field_names": [],
+      "field_names": [
+        {
+          "name": "Package",
+          "url": false,
+          "visible": false
+        },
+        {
+          "name": "Manufacturer",
+          "url": false,
+          "visible": false
+        },
+        {
+          "name": "Manufacturer Part Number",
+          "url": false,
+          "visible": false
+        },
+        {
+          "name": "LCSC Part Number",
+          "url": false,
+          "visible": false
+        }
+      ],
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
       "intersheets_ref_show": false,
@@ -430,7 +451,7 @@
   },
   "sheets": [
     [
-      "f6bff0f3-82ea-4023-9b3c-7edca9208a46",
+      "4a256f49-48e4-4208-a24f-bcbf6f4dce6e",
       ""
     ]
   ],

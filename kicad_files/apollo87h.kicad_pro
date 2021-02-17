@@ -394,7 +394,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "apollo87h_topconnector.step",
+      "step": "../gerbers/apollo87h_v1.0_gerbers.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -443,7 +443,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "../gerbers",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
@@ -451,7 +451,7 @@
   },
   "sheets": [
     [
-      "75e72253-9000-458d-b33f-8f987c49a02c",
+      "5f1958ee-a7dc-41b6-8164-7894e481fbc9",
       ""
     ]
   ],

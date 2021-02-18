@@ -4,8 +4,8 @@
 
   (title_block
     (title "Apollo87H PCB schematic")
-    (date "2021-02-17")
-    (rev "v1.0.1")
+    (date "2021-02-18")
+    (rev "v1.0.3")
     (company "Designed by Gondolindrim")
     (comment 1 "For the AcheronProject")
   )
@@ -11209,7 +11209,6 @@
   (junction (at 90.17 143.51) (diameter 1.016) (color 0 0 0 0))
   (junction (at 90.17 181.61) (diameter 1.016) (color 0 0 0 0))
   (junction (at 90.17 222.25) (diameter 1.016) (color 0 0 0 0))
-  (junction (at 93.98 67.31) (diameter 1.2192) (color 0 0 0 0))
   (junction (at 93.98 546.1) (diameter 1.016) (color 0 0 0 0))
   (junction (at 93.98 575.31) (diameter 1.016) (color 0 0 0 0))
   (junction (at 93.98 582.93) (diameter 1.016) (color 0 0 0 0))
@@ -11751,14 +11750,6 @@
   (wire (pts (xy 93.98 67.31) (xy 90.17 67.31))
     (stroke (width 0) (type solid) (color 0 0 0 0))
     (uuid 3f518a08-d580-487f-b42c-43250dca4241)
-  )
-  (wire (pts (xy 93.98 67.31) (xy 93.98 68.58))
-    (stroke (width 0) (type solid) (color 0 0 0 0))
-    (uuid bbda0379-0e18-480e-b678-d10c0bf1af8d)
-  )
-  (wire (pts (xy 93.98 68.58) (xy 95.25 68.58))
-    (stroke (width 0) (type solid) (color 0 0 0 0))
-    (uuid f668f08f-6fa2-4ce8-865e-a65cde3279ef)
   )
   (wire (pts (xy 93.98 543.56) (xy 93.98 546.1))
     (stroke (width 0) (type solid) (color 0 0 0 0))
@@ -27224,7 +27215,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 52.07 67.31 90) (mirror x) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid dfa047c1-3a40-4cba-8a22-7e4e3a688e36)
     (property "Reference" "SW1" (id 0) (at 51.435 67.31 0))
     (property "Value" "CPG151101S11" (id 1) (at 53.975 67.31 0)
@@ -27250,7 +27241,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 52.07 105.41 90) (mirror x) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 7debfb5e-eb15-47bf-a873-8b967cda1ee4)
     (property "Reference" "SW17" (id 0) (at 51.435 105.41 0))
     (property "Value" "CPG151101S11" (id 1) (at 53.975 105.41 0)
@@ -27276,7 +27267,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 52.07 143.51 90) (mirror x) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 79ba89c5-9d55-416d-bd22-f88d4c4bd251)
     (property "Reference" "SW34" (id 0) (at 51.435 143.51 0))
     (property "Value" "CPG151101S11" (id 1) (at 53.975 143.51 0)
@@ -27302,7 +27293,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 52.07 181.61 90) (mirror x) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 73161a40-7218-4707-ae31-23d1b6ae1081)
     (property "Reference" "SW51" (id 0) (at 51.435 181.61 0))
     (property "Value" "CPG151101S11" (id 1) (at 53.975 181.61 0)
@@ -27328,7 +27319,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 52.07 222.25 90) (mirror x) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid cf461003-b83e-4924-8a99-e1df3dcc2f84)
     (property "Reference" "SW64" (id 0) (at 51.435 222.25 0))
     (property "Value" "CPG151101S11" (id 1) (at 53.975 222.25 0)
@@ -27354,7 +27345,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 52.07 262.89 90) (mirror x) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 77485d16-679d-4fa3-bd10-d658fd4cd66e)
     (property "Reference" "SW77" (id 0) (at 51.435 262.89 0))
     (property "Value" "CPG151101S11" (id 1) (at 53.975 262.89 0)
@@ -27380,7 +27371,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 77.47 67.31 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid bbf909af-598c-4756-a52b-4f6bcafa229e)
     (property "Reference" "SW2" (id 0) (at 77.47 66.675 0))
     (property "Value" "CPG151101S11" (id 1) (at 77.47 69.215 0)
@@ -27406,7 +27397,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 77.47 105.41 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid fa58633b-52cc-427f-8eb6-3b9e8f1a365a)
     (property "Reference" "SW18" (id 0) (at 77.47 104.775 0))
     (property "Value" "CPG151101S11" (id 1) (at 77.47 107.315 0)
@@ -27432,7 +27423,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 77.47 143.51 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 1130f28e-c71c-42a1-b24c-c7d4a1fd87de)
     (property "Reference" "SW35" (id 0) (at 77.47 142.875 0))
     (property "Value" "CPG151101S11" (id 1) (at 77.47 145.415 0)
@@ -27458,7 +27449,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 77.47 181.61 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid dc573c92-b5c6-4196-bfda-887e8977d267)
     (property "Reference" "SW52" (id 0) (at 77.47 180.975 0))
     (property "Value" "CPG151101S11" (id 1) (at 77.47 183.515 0)
@@ -27484,7 +27475,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 77.47 262.89 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 1266399a-183e-4743-96c1-660afb35b6e2)
     (property "Reference" "SW78" (id 0) (at 77.47 262.255 0))
     (property "Value" "CPG151101S11" (id 1) (at 77.47 264.795 0)
@@ -27510,7 +27501,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 102.87 67.31 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 81981648-06cb-47e5-bd8e-240fd024e5b4)
     (property "Reference" "SW3" (id 0) (at 102.87 66.675 0))
     (property "Value" "CPG151101S11" (id 1) (at 102.87 69.215 0)
@@ -27536,7 +27527,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 102.87 105.41 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 6ab656df-abbc-4937-a8e0-0e9d0dd0ecc9)
     (property "Reference" "SW19" (id 0) (at 102.87 104.775 0))
     (property "Value" "CPG151101S11" (id 1) (at 102.87 107.315 0)
@@ -27562,7 +27553,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 102.87 143.51 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid c6c1142f-2f80-4bc0-82e8-72225dce0ce8)
     (property "Reference" "SW36" (id 0) (at 102.87 142.875 0))
     (property "Value" "CPG151101S11" (id 1) (at 102.87 145.415 0)
@@ -27588,7 +27579,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 102.87 181.61 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 2b611532-82ff-4aa3-bba5-9844616f58c6)
     (property "Reference" "SW53" (id 0) (at 102.87 180.975 0))
     (property "Value" "CPG151101S11" (id 1) (at 102.87 183.515 0)
@@ -27614,7 +27605,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 102.87 222.25 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid def41808-2d2d-4df9-95cd-bfcef0bd8978)
     (property "Reference" "SW65" (id 0) (at 102.87 221.615 0))
     (property "Value" "CPG151101S11" (id 1) (at 102.87 224.155 0)
@@ -27640,7 +27631,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 102.87 262.89 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid ab9cbd14-ea8d-4cfe-920d-e5371306f69d)
     (property "Reference" "SW79" (id 0) (at 102.87 262.255 0))
     (property "Value" "CPG151101S11" (id 1) (at 102.87 264.795 0)
@@ -27666,7 +27657,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 128.27 67.31 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid a9da5b9d-a4a4-4c71-83a6-4064632763d1)
     (property "Reference" "SW4" (id 0) (at 128.27 66.675 0))
     (property "Value" "CPG151101S11" (id 1) (at 128.27 69.215 0)
@@ -27692,7 +27683,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 128.27 105.41 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 5f396d50-1908-405a-b4de-55df3a6f8c1b)
     (property "Reference" "SW20" (id 0) (at 128.27 104.775 0))
     (property "Value" "CPG151101S11" (id 1) (at 128.27 107.315 0)
@@ -27718,7 +27709,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 128.27 143.51 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 72578ad5-badc-4cce-8af5-d287ea2b1a45)
     (property "Reference" "SW37" (id 0) (at 128.27 142.875 0))
     (property "Value" "CPG151101S11" (id 1) (at 128.27 145.415 0)
@@ -27744,7 +27735,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 128.27 181.61 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid faec49af-b90b-4fe8-be76-7425aa5d5d46)
     (property "Reference" "SW54" (id 0) (at 128.27 180.975 0))
     (property "Value" "CPG151101S11" (id 1) (at 128.27 183.515 0)
@@ -27770,7 +27761,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 128.27 222.25 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 623ad907-7154-45f9-a7dd-6c7ab2607dca)
     (property "Reference" "SW66" (id 0) (at 128.27 221.615 0))
     (property "Value" "CPG151101S11" (id 1) (at 128.27 224.155 0)
@@ -27796,7 +27787,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 153.67 67.31 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 2b65eb58-ec60-4d81-9853-06d4a97fd4c3)
     (property "Reference" "SW5" (id 0) (at 153.67 66.675 0))
     (property "Value" "CPG151101S11" (id 1) (at 153.67 69.215 0)
@@ -27822,7 +27813,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 153.67 105.41 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 7426ea39-0e1a-4dab-ac01-3062906b3eea)
     (property "Reference" "SW21" (id 0) (at 153.67 104.775 0))
     (property "Value" "CPG151101S11" (id 1) (at 153.67 107.315 0)
@@ -27848,7 +27839,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 153.67 143.51 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid df9fbe8e-f1dc-48ec-98ee-9dc4314d5403)
     (property "Reference" "SW38" (id 0) (at 153.67 142.875 0))
     (property "Value" "CPG151101S11" (id 1) (at 153.67 145.415 0)
@@ -27874,7 +27865,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 153.67 181.61 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid c7358727-1afd-44cc-968c-46930819f106)
     (property "Reference" "SW55" (id 0) (at 153.67 180.975 0))
     (property "Value" "CPG151101S11" (id 1) (at 153.67 183.515 0)
@@ -27900,7 +27891,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 153.67 222.25 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 961b21c3-c982-4cf0-a43e-2d49ecefc60f)
     (property "Reference" "SW67" (id 0) (at 153.67 221.615 0))
     (property "Value" "CPG151101S11" (id 1) (at 153.67 224.155 0)
@@ -27926,7 +27917,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 179.07 67.31 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 19585d04-5d6c-44da-8b35-97624007a247)
     (property "Reference" "SW6" (id 0) (at 179.07 66.675 0))
     (property "Value" "CPG151101S11" (id 1) (at 179.07 69.215 0)
@@ -27952,7 +27943,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 179.07 105.41 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 1ba5e092-a6c1-41fa-a5b3-3c77deae96f6)
     (property "Reference" "SW22" (id 0) (at 179.07 104.775 0))
     (property "Value" "CPG151101S11" (id 1) (at 179.07 107.315 0)
@@ -27978,7 +27969,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 179.07 143.51 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid f72d3e19-6293-42f9-9df1-9683775fad11)
     (property "Reference" "SW39" (id 0) (at 179.07 142.875 0))
     (property "Value" "CPG151101S11" (id 1) (at 179.07 145.415 0)
@@ -28004,7 +27995,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 179.07 181.61 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 6a56f9ba-d091-4ce4-b0da-0d9f52baf6af)
     (property "Reference" "SW56" (id 0) (at 179.07 180.975 0))
     (property "Value" "CPG151101S11" (id 1) (at 179.07 183.515 0)
@@ -28030,7 +28021,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 179.07 222.25 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 9fedc5b1-38f4-49c7-9c38-f8f516c78b99)
     (property "Reference" "SW68" (id 0) (at 179.07 221.615 0))
     (property "Value" "CPG151101S11" (id 1) (at 179.07 224.155 0)
@@ -28056,7 +28047,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 204.47 67.31 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 8c5a2135-6cdf-49be-8edd-3410efdfaba3)
     (property "Reference" "SW7" (id 0) (at 204.47 66.675 0))
     (property "Value" "CPG151101S11" (id 1) (at 204.47 69.215 0)
@@ -28082,7 +28073,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 204.47 105.41 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 06866e1c-795f-464a-825d-bec820020bfe)
     (property "Reference" "SW23" (id 0) (at 204.47 104.775 0))
     (property "Value" "CPG151101S11" (id 1) (at 204.47 107.315 0)
@@ -28108,7 +28099,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 204.47 143.51 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid da84fd24-89f5-46d8-8dc8-bcb6a0518af5)
     (property "Reference" "SW40" (id 0) (at 204.47 142.875 0))
     (property "Value" "CPG151101S11" (id 1) (at 204.47 145.415 0)
@@ -28134,7 +28125,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 204.47 181.61 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 818f501d-46ae-48b0-a69d-6c8ac74879d5)
     (property "Reference" "SW57" (id 0) (at 204.47 180.975 0))
     (property "Value" "CPG151101S11" (id 1) (at 204.47 183.515 0)
@@ -28160,7 +28151,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 204.47 222.25 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid fae13e0d-4094-4036-984a-fe1362d39cb7)
     (property "Reference" "SW69" (id 0) (at 204.47 221.615 0))
     (property "Value" "CPG151101S11" (id 1) (at 204.47 224.155 0)
@@ -28186,7 +28177,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 204.47 262.89 90) (mirror x) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid dde17c8a-4394-4320-ad6d-6589276917db)
     (property "Reference" "SW80" (id 0) (at 203.835 262.89 0))
     (property "Value" "CPG151101S11" (id 1) (at 206.375 262.89 0)
@@ -28212,7 +28203,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 229.87 67.31 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 25951dd0-8012-4f12-b178-24a572a4ff47)
     (property "Reference" "SW8" (id 0) (at 229.87 66.675 0))
     (property "Value" "CPG151101S11" (id 1) (at 229.87 69.215 0)
@@ -28238,7 +28229,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 229.87 105.41 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 90a715ed-5fd7-4cb1-a391-cab13625b7f9)
     (property "Reference" "SW24" (id 0) (at 229.87 104.775 0))
     (property "Value" "CPG151101S11" (id 1) (at 229.87 107.315 0)
@@ -28264,7 +28255,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 229.87 143.51 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 924fdeae-d8e4-4668-a88b-9dd767c51e21)
     (property "Reference" "SW41" (id 0) (at 229.87 142.875 0))
     (property "Value" "CPG151101S11" (id 1) (at 229.87 145.415 0)
@@ -28290,7 +28281,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 229.87 181.61 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid f590a153-7990-47a0-bd51-7b4c607d58e4)
     (property "Reference" "SW58" (id 0) (at 229.87 180.975 0))
     (property "Value" "CPG151101S11" (id 1) (at 229.87 183.515 0)
@@ -28316,7 +28307,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 229.87 222.25 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 327a2046-efc9-42d1-901e-b6db074ef477)
     (property "Reference" "SW70" (id 0) (at 229.87 221.615 0))
     (property "Value" "CPG151101S11" (id 1) (at 229.87 224.155 0)
@@ -28342,7 +28333,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 255.27 67.31 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 1dc60d43-4d09-43a1-8403-ed19d564d5fa)
     (property "Reference" "SW9" (id 0) (at 255.27 66.675 0))
     (property "Value" "CPG151101S11" (id 1) (at 255.27 69.215 0)
@@ -28368,7 +28359,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 255.27 105.41 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 0008b4a2-cb85-4d9c-a723-3a6a2847971d)
     (property "Reference" "SW25" (id 0) (at 255.27 104.775 0))
     (property "Value" "CPG151101S11" (id 1) (at 255.27 107.315 0)
@@ -28394,7 +28385,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 255.27 143.51 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 610d43ce-4cf2-4571-b3a3-90fed4b91c76)
     (property "Reference" "SW42" (id 0) (at 255.27 142.875 0))
     (property "Value" "CPG151101S11" (id 1) (at 255.27 145.415 0)
@@ -28420,7 +28411,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 255.27 181.61 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid d8deac37-5a5e-4c92-9a0e-81e61c1902eb)
     (property "Reference" "SW59" (id 0) (at 255.27 180.975 0))
     (property "Value" "CPG151101S11" (id 1) (at 255.27 183.515 0)
@@ -28446,7 +28437,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 255.27 222.25 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 4d151d99-376c-491a-8727-dd5bc4904ee1)
     (property "Reference" "SW71" (id 0) (at 255.27 221.615 0))
     (property "Value" "CPG151101S11" (id 1) (at 255.27 224.155 0)
@@ -28472,7 +28463,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 280.67 67.31 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 4d2fe20a-258c-4cac-8678-2e425aad0c8e)
     (property "Reference" "SW10" (id 0) (at 280.67 66.675 0))
     (property "Value" "CPG151101S11" (id 1) (at 280.67 69.215 0)
@@ -28498,7 +28489,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 280.67 105.41 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 8cb57fce-8f96-4c28-8968-a1cd8cb4a8ae)
     (property "Reference" "SW26" (id 0) (at 280.67 104.775 0))
     (property "Value" "CPG151101S11" (id 1) (at 280.67 107.315 0)
@@ -28524,7 +28515,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 280.67 143.51 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 6a7d20c9-01f9-4b35-aec3-49ef21d82108)
     (property "Reference" "SW43" (id 0) (at 280.67 142.875 0))
     (property "Value" "CPG151101S11" (id 1) (at 280.67 145.415 0)
@@ -28550,7 +28541,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 280.67 181.61 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 24a42e41-310e-489e-8ff4-fd2714934e51)
     (property "Reference" "SW60" (id 0) (at 280.67 180.975 0))
     (property "Value" "CPG151101S11" (id 1) (at 280.67 183.515 0)
@@ -28576,7 +28567,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 280.67 222.25 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 095efeb6-688e-4ef1-91a3-b186bd6c6ad8)
     (property "Reference" "SW72" (id 0) (at 280.67 221.615 0))
     (property "Value" "CPG151101S11" (id 1) (at 280.67 224.155 0)
@@ -28602,7 +28593,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 280.67 262.89 90) (mirror x) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 59f8da1c-20fe-4d0c-87ef-a03dac0e9b15)
     (property "Reference" "SW81" (id 0) (at 280.035 262.89 0))
     (property "Value" "CPG151101S11" (id 1) (at 282.575 262.89 0)
@@ -28628,7 +28619,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 306.07 67.31 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 1dff42ba-0f74-4f76-8719-a34d8fe8486c)
     (property "Reference" "SW11" (id 0) (at 306.07 66.675 0))
     (property "Value" "CPG151101S11" (id 1) (at 306.07 69.215 0)
@@ -28654,7 +28645,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 306.07 105.41 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid e3835048-5569-4368-b4cc-cbf6bb6b9be8)
     (property "Reference" "SW27" (id 0) (at 306.07 104.775 0))
     (property "Value" "CPG151101S11" (id 1) (at 306.07 107.315 0)
@@ -28680,7 +28671,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 306.07 143.51 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid eda440e7-79ed-4793-bc34-029c2ceeddcb)
     (property "Reference" "SW44" (id 0) (at 306.07 142.875 0))
     (property "Value" "CPG151101S11" (id 1) (at 306.07 145.415 0)
@@ -28706,7 +28697,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 306.07 181.61 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 9e9ff755-6ff8-4436-9863-193579af1881)
     (property "Reference" "SW61" (id 0) (at 306.07 180.975 0))
     (property "Value" "CPG151101S11" (id 1) (at 306.07 183.515 0)
@@ -28732,7 +28723,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 306.07 222.25 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 4577c015-2f8b-4de7-beb8-716ba77111f7)
     (property "Reference" "SW73" (id 0) (at 306.07 221.615 0))
     (property "Value" "CPG151101S11" (id 1) (at 306.07 224.155 0)
@@ -28758,7 +28749,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 306.07 262.89 90) (mirror x) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid a61c627b-b919-4a2f-a780-007bdabe394e)
     (property "Reference" "SW82" (id 0) (at 305.435 262.89 0))
     (property "Value" "CPG151101S11" (id 1) (at 307.975 262.89 0)
@@ -28784,7 +28775,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 331.47 67.31 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 29e3f042-e127-4608-94e8-8bd1b409e0bc)
     (property "Reference" "SW12" (id 0) (at 331.47 66.675 0))
     (property "Value" "CPG151101S11" (id 1) (at 331.47 69.215 0)
@@ -28810,7 +28801,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 331.47 105.41 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid c941541f-ca3f-40e3-ba0c-b8b625cdeb7f)
     (property "Reference" "SW28" (id 0) (at 331.47 104.775 0))
     (property "Value" "CPG151101S11" (id 1) (at 331.47 107.315 0)
@@ -28836,7 +28827,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 331.47 143.51 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid fc82c75c-36d7-4c83-ae09-da5aca098ebe)
     (property "Reference" "SW45" (id 0) (at 331.47 142.875 0))
     (property "Value" "CPG151101S11" (id 1) (at 331.47 145.415 0)
@@ -28862,7 +28853,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 331.47 181.61 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 3fc8bfbe-c186-433a-8dcd-f773286c8a91)
     (property "Reference" "SW62" (id 0) (at 331.47 180.975 0))
     (property "Value" "CPG151101S11" (id 1) (at 331.47 183.515 0)
@@ -28888,7 +28879,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 331.47 222.25 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 7e2df863-de43-46fa-b47f-67055a59e495)
     (property "Reference" "SW74" (id 0) (at 331.47 221.615 0))
     (property "Value" "CPG151101S11" (id 1) (at 331.47 224.155 0)
@@ -28914,7 +28905,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 331.47 262.89 90) (mirror x) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 9835b4fe-82ad-49b0-b69b-308b5b41fa63)
     (property "Reference" "SW83" (id 0) (at 330.835 262.89 0))
     (property "Value" "CPG151101S11" (id 1) (at 333.375 262.89 0)
@@ -28940,7 +28931,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 356.87 67.31 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 0857fdc6-6adc-4197-ab4e-55ba81413370)
     (property "Reference" "SW13" (id 0) (at 356.87 66.675 0))
     (property "Value" "CPG151101S11" (id 1) (at 356.87 69.215 0)
@@ -28966,7 +28957,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 356.87 105.41 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 79c3e743-28d4-43ae-b0b7-64ddb27b6736)
     (property "Reference" "SW29" (id 0) (at 356.87 104.775 0))
     (property "Value" "CPG151101S11" (id 1) (at 356.87 107.315 0)
@@ -28992,7 +28983,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 356.87 143.51 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 69e78a0c-5689-48ca-912a-57ab81723e00)
     (property "Reference" "SW46" (id 0) (at 356.87 142.875 0))
     (property "Value" "CPG151101S11" (id 1) (at 356.87 145.415 0)
@@ -29018,7 +29009,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 382.27 105.41 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid eb9e7a82-9fe6-4e9b-9ac1-d394e5355fe3)
     (property "Reference" "SW30" (id 0) (at 382.27 104.775 0))
     (property "Value" "CPG151101S11" (id 1) (at 382.27 107.315 0)
@@ -29044,7 +29035,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 382.27 143.51 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 64b6b673-cc05-404a-afff-d32769ec3c22)
     (property "Reference" "SW47" (id 0) (at 382.27 142.875 0))
     (property "Value" "CPG151101S11" (id 1) (at 382.27 145.415 0)
@@ -29070,7 +29061,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 382.27 181.61 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 2e427d95-57c5-4a12-8db9-33795f4f8067)
     (property "Reference" "SW63" (id 0) (at 382.27 180.975 0))
     (property "Value" "CPG151101S11" (id 1) (at 382.27 183.515 0)
@@ -29096,7 +29087,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 382.27 222.25 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid eaff1ccb-2b60-42c4-af3a-452a4c772174)
     (property "Reference" "SW75" (id 0) (at 382.27 221.615 0))
     (property "Value" "CPG151101S11" (id 1) (at 382.27 224.155 0)
@@ -29122,7 +29113,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 382.27 262.89 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 2b2ecb3b-5ff2-459a-9b83-96966a923ff9)
     (property "Reference" "SW84" (id 0) (at 382.27 262.255 0))
     (property "Value" "CPG151101S11" (id 1) (at 382.27 264.795 0)
@@ -29148,7 +29139,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 407.67 67.31 90) (mirror x) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 6f0e1a7e-e2ec-483b-9f29-66f7a43483ef)
     (property "Reference" "SW14" (id 0) (at 407.035 67.31 0))
     (property "Value" "CPG151101S11" (id 1) (at 409.575 67.31 0)
@@ -29174,7 +29165,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 407.67 105.41 90) (mirror x) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 5fd12d4e-9a3d-4cb1-96de-187c4eaa29f7)
     (property "Reference" "SW31" (id 0) (at 407.035 105.41 0))
     (property "Value" "CPG151101S11" (id 1) (at 409.575 105.41 0)
@@ -29200,7 +29191,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 407.67 143.51 90) (mirror x) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 7d8c9296-14c4-4f10-849d-8e682799b703)
     (property "Reference" "SW48" (id 0) (at 407.035 143.51 0))
     (property "Value" "CPG151101S11" (id 1) (at 409.575 143.51 0)
@@ -29226,7 +29217,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 407.67 262.89 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 45150515-e32a-4363-8267-2aa6cabcd00b)
     (property "Reference" "SW85" (id 0) (at 407.67 262.255 0))
     (property "Value" "CPG151101S11" (id 1) (at 407.67 264.795 0)
@@ -29252,7 +29243,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 433.07 67.31 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 551c55ec-026e-44c3-9f46-bf7b41fc5f08)
     (property "Reference" "SW15" (id 0) (at 433.07 66.675 0))
     (property "Value" "CPG151101S11" (id 1) (at 433.07 69.215 0)
@@ -29278,7 +29269,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 433.07 105.41 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 0c14a2c6-f112-47fe-b5bd-9180805d3e5c)
     (property "Reference" "SW32" (id 0) (at 433.07 104.775 0))
     (property "Value" "CPG151101S11" (id 1) (at 433.07 107.315 0)
@@ -29304,7 +29295,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 433.07 143.51 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid f6906fee-b034-4b1a-902a-aceb7780f627)
     (property "Reference" "SW49" (id 0) (at 433.07 142.875 0))
     (property "Value" "CPG151101S11" (id 1) (at 433.07 145.415 0)
@@ -29330,7 +29321,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 433.07 222.25 90) (mirror x) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 6276212b-1776-4a3f-8014-c7d9407f024f)
     (property "Reference" "SW76" (id 0) (at 432.435 222.25 0))
     (property "Value" "CPG151101S11" (id 1) (at 434.975 222.25 0)
@@ -29356,7 +29347,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 433.07 262.89 90) (mirror x) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid c400b5e2-2f2a-46cb-970b-c8e0c0ee2859)
     (property "Reference" "SW86" (id 0) (at 432.435 262.89 0))
     (property "Value" "CPG151101S11" (id 1) (at 434.975 262.89 0)
@@ -29382,7 +29373,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 458.47 67.31 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid c5fd1b38-eac8-43f4-9f50-b476ca6d9f90)
     (property "Reference" "SW16" (id 0) (at 458.47 66.675 0))
     (property "Value" "CPG151101S11" (id 1) (at 458.47 69.215 0)
@@ -29408,7 +29399,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 458.47 105.41 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid ba0c5c78-34de-4ef4-b41b-46c840418da2)
     (property "Reference" "SW33" (id 0) (at 458.47 104.775 0))
     (property "Value" "CPG151101S11" (id 1) (at 458.47 107.315 0)
@@ -29434,7 +29425,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 458.47 143.51 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 15e84ce0-74b3-47da-943d-f581f6bbf00f)
     (property "Reference" "SW50" (id 0) (at 458.47 142.875 0))
     (property "Value" "CPG151101S11" (id 1) (at 458.47 145.415 0)
@@ -29460,7 +29451,7 @@
   )
 
   (symbol (lib_id "acheronSymbols:MXSwitch") (at 458.47 262.89 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom yes) (on_board yes)
     (uuid 84700bdc-c504-441e-9ae1-c7ada08264fc)
     (property "Reference" "SW87" (id 0) (at 458.47 262.255 0))
     (property "Value" "CPG151101S11" (id 1) (at 458.47 264.795 0)

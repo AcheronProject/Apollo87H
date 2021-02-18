@@ -394,7 +394,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../gerbers/apollo87h_v1.0_gerbers.step",
+      "step": "../release/apollo87h_preAlpha_gerbers.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -443,7 +443,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "../gerbers",
+    "plot_directory": "../release",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
@@ -451,7 +451,7 @@
   },
   "sheets": [
     [
-      "6272fd47-c207-48e9-bb48-ef614adb8641",
+      "92ff1ebd-9418-45d4-adbe-2ac700c2d79f",
       ""
     ]
   ],

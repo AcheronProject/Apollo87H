@@ -15,12 +15,12 @@ Both Apollo and Athena line of PCBs were designed to be "universal" TKL PCBs, th
 - Connector: USB Type C on the top side
 - Firmware compatibility: QMK (with VIA support)
 - Protection hardware:
- * USB data lines and power rail ESD suppressing
- * USB power overvoltage protection
- * Enclosure grounding pad
- * Overcurrent protection
- * LDO crowbar diode
- * EMI suppression (shielding ferrite bead)
+  * USB data lines and power rail ESD suppressing
+  * USB power overvoltage protection
+  * Enclosure grounding pad
+  * Overcurrent protection
+  * LDO crowbar diode
+  * EMI suppression (shielding ferrite bead)
 - Current release: pre-release Alpha (has not been prototyped yet)
 - Designer: Gondolindrim
 - License: Acheron Open-Source Hardware License version 1.3

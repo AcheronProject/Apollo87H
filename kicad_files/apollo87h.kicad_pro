@@ -57,7 +57,7 @@
       ],
       "drc_exclusions": [],
       "meta": {
-        "version": 1
+        "version": 2
       },
       "rule_severities": {
         "annular_width": "error",
@@ -111,15 +111,12 @@
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.19999999999999998,
         "min_via_annular_width": 0.1016,
-        "min_via_diameter": 0.39999999999999997,
-        "solder_mask_clearance": 0.19999999999999998,
-        "solder_mask_min_width": 0.25,
-        "solder_paste_clearance": 0.0,
-        "solder_paste_margin_ratio": -0.0
+        "min_via_diameter": 0.39999999999999997
       },
       "track_widths": [
         0.0,
         0.1524,
+        0.2,
         0.254,
         0.508,
         1.016
@@ -367,42 +364,19 @@
     "classes": [
       {
         "bus_width": 12.0,
-        "clearance": 0.1778,
-        "diff_pair_gap": 0.25,
+        "clearance": 0.1524,
+        "diff_pair_gap": 0.1524,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
+        "diff_pair_width": 0.1524,
         "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
+        "microvia_diameter": 0.3048,
+        "microvia_drill": 0.1016,
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.254,
-        "via_diameter": 0.6,
-        "via_drill": 0.4,
-        "wire_width": 6.0
-      },
-      {
-        "bus_width": 12.0,
-        "clearance": 0.1778,
-        "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
-        "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "Power",
-        "nets": [
-          "+5V",
-          "GND",
-          "LEDGND",
-          "VCC"
-        ],
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.381,
-        "via_diameter": 0.6,
-        "via_drill": 0.4,
+        "via_diameter": 0.508,
+        "via_drill": 0.3048,
         "wire_width": 6.0
       }
     ],
@@ -474,9 +448,11 @@
   },
   "sheets": [
     [
-      "92ff1ebd-9418-45d4-adbe-2ac700c2d79f",
+      "9417d8dd-9dab-43c7-b42f-32e86f72044b",
       ""
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "ACHERONLIB": "${KIPRJMOD}/AcheronLibrary"
+  }
 }

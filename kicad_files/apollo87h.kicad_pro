@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 3.0,
+          "height": 5.3,
+          "width": 5.3
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -425,6 +425,7 @@
           "visible": false
         }
       ],
+      "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
       "intersheets_ref_show": false,
@@ -448,7 +449,7 @@
   },
   "sheets": [
     [
-      "9417d8dd-9dab-43c7-b42f-32e86f72044b",
+      "2913d90c-12d7-433a-885e-ede6796f8f74",
       ""
     ]
   ],

@@ -1,0 +1,13 @@
+(footprint "usbc_removal_mousebite" (version 20210228) (generator pcbnew) (layer "F.Cu")
+  (tedit 605BDE3F)
+  (attr through_hole)
+  (fp_text reference "L3" (at 0 0) (layer "F.SilkS") hide
+    (effects (font (size 1.524 1.524) (thickness 0.3)))
+    (tstamp 89adaff4-1b9d-47a3-ad87-7ced081bb619)
+  )
+  (fp_text value "Acheron Logo" (at 0.75 0) (layer "F.SilkS") hide
+    (effects (font (size 1.524 1.524) (thickness 0.3)))
+    (tstamp 69a2461d-c940-4e2c-b3c6-c3ccde78f958)
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers "F.SilkS") (tstamp 5deae705-51c0-4687-b1e5-9981b5358e4c))
+)

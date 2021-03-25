@@ -108,7 +108,7 @@
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
         "min_silk_clearance": 0.0,
-        "min_through_hole_diameter": 0.30479999999999996,
+        "min_through_hole_diameter": 0.3,
         "min_track_width": 0.15239999999999998,
         "min_via_annular_width": 0.1016,
         "min_via_diameter": 0.30479999999999996
@@ -440,6 +440,12 @@
       "version": 0
     },
     "net_format_name": "Pcbnew",
+    "ngspice": {
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 0
+    },
     "page_layout_descr_file": "",
     "plot_directory": "../release",
     "spice_adjust_passive_values": false,
@@ -449,7 +455,7 @@
   },
   "sheets": [
     [
-      "2913d90c-12d7-433a-885e-ede6796f8f74",
+      "8096e64b-aee8-4360-832c-baf5e363307b",
       ""
     ]
   ],

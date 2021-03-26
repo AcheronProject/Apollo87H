@@ -1,7 +1,7 @@
 (fp_lib_table
   (lib (name "acheron_Components")(type "KiCad")(uri "${KIPRJMOD}/AcheronLibrary/footprints/acheron_Components.pretty")(options "")(descr ""))
   (lib (name "acheron_Connectors")(type "KiCad")(uri "${KIPRJMOD}/AcheronLibrary/footprints/acheron_Connectors.pretty")(options "")(descr ""))
-  (lib (name "acheron_Hardware")(type "KiCad")(uri "${KIPRJMOD}/AcheronLibrary/footprints/acheron_Hardware.pretty")(options "")(descr ""))
+  (lib (name "acheron_Hardware")(type "KiCad")(uri "${KIPRJMOD}/libraries/acheron_Hardware.pretty")(options "")(descr ""))
   (lib (name "apollo87h_kicad_library")(type "KiCad")(uri "${KIPRJMOD}/apollo87h_kicad_library.pretty")(options "")(descr ""))
   (lib (name "acheron_MXH")(type "KiCad")(uri "${KIPRJMOD}/AcheronLibrary/footprints/acheron_MXH_MetalRings.pretty")(options "")(descr ""))
   (lib (name "acheron_MountingHoles")(type "KiCad")(uri "${KIPRJMOD}/AcheronLibrary/footprints/acheron_MountingHoles.pretty")(options "")(descr ""))

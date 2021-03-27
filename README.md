@@ -46,3 +46,5 @@ Both Apollo and Athena line of PCBs were designed to be "universal" TKL PCBs, th
 ## Copyright notice
 
 This project is released under the Acheron Open-Hardware License V1.3. For the license, please refer to the LICENCE.md file.
+
+The "apollo sun face" logo was licensed through purchase from the EnvatoMarket website; the source file and licensing proof can be found in ``./resources/apollo_logo``. The license was obtained in march 27, 2021 and allows the AcheronProject to redistribute the logo as open-source and allows anyone to sell the PCBs commercially, but it does not allow for reproduction, meaning that if you want to use the logo for your designs or products you will have to buy a license yourself.

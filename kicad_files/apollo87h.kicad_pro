@@ -423,6 +423,11 @@
           "name": "LCSC Part Number",
           "url": false,
           "visible": false
+        },
+        {
+          "name": "Description",
+          "url": false,
+          "visible": false
         }
       ],
       "intersheets_ref_own_page": false,
@@ -455,7 +460,7 @@
   },
   "sheets": [
     [
-      "11e98d7c-30ce-4195-90de-6bacf1d55fc0",
+      "b42f1afd-f366-4148-8473-2eb4b9d22179",
       ""
     ]
   ],

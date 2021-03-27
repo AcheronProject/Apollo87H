@@ -16,3 +16,6 @@
 [submodule "kicad_files/libraries/acheron_3D"]
 	path = kicad_files/libraries/acheron_3D
 	url = git@github.com:AcheronProject/acheron_3D.git
+[submodule "kicad_files/libraries/acheron_Components.pretty"]
+	path = kicad_files/libraries/acheron_Components.pretty
+	url = git@github.com:AcheronProject/acheron_Components.pretty.git

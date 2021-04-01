@@ -391,7 +391,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../release/apollo87h_preAlpha_gerbers.step",
+      "step": "../apollo87h_31032021.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -460,7 +460,7 @@
   },
   "sheets": [
     [
-      "6eee3103-1b95-4622-8f9c-93293067969d",
+      "9074b90a-68e5-4255-bfbe-e8dc7fd0a019",
       ""
     ]
   ],

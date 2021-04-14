@@ -1,4 +1,4 @@
-19032617687227802
+19034237826880279
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -82521,6 +82521,13 @@ QFN-60 7x7mm with 0.4mm pitch
 QFN 60 no lead
 0
 86
+61
+acheron_Hardware
+QFN-60-1EP_7x7mm_P0.4mm_EP5.4x5.4mm_ThermalReliefs
+QFN-60 7x7mm with 0.4mm pitch
+QFN 60 no lead
+0
+112
 61
 acheron_Hardware
 RKJXT1F

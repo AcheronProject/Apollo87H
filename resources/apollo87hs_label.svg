@@ -7,16 +7,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="59.756733mm"
-   height="1.2195418mm"
-   viewBox="0 0 59.756732 1.2195417"
+   width="71.460922mm"
+   height="1.8mm"
+   viewBox="0 0 71.460921 1.7999998"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
    sodipodi:docname="apollo87hs_label.svg"
-   inkscape:export-filename="/home/alvaro/Desktop/Apollo87H/resources/apollo87hs_label.png"
-   inkscape:export-xdpi="10000"
-   inkscape:export-ydpi="10000">
+   inkscape:export-filename="/home/alvaro/Desktop/AcheronProject/Apollo87H/resources/apollo87hs_label.png"
+   inkscape:export-xdpi="5000"
+   inkscape:export-ydpi="5000">
   <defs
      id="defs2">
     <rect
@@ -49,6 +49,12 @@
        width="508.40088"
        height="11.106036"
        id="rect223" />
+    <rect
+       x="-208.05171"
+       y="110.20891"
+       width="508.40088"
+       height="11.106036"
+       id="rect1061" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -57,17 +63,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.8619403"
-     inkscape:cx="53.371505"
-     inkscape:cy="-3.6928204"
+     inkscape:zoom="3.7238806"
+     inkscape:cx="104.19608"
+     inkscape:cy="19.449786"
      inkscape:document-units="mm"
-     inkscape:current-layer="g418"
+     inkscape:current-layer="g1250"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="711"
-     inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="294"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -85,7 +91,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(208.04044,-114.30128)">
+     transform="translate(208.19044,-114.14221)">
     <text
        xml:space="preserve"
        id="text10"
@@ -95,290 +101,283 @@
        inkscape:export-ydpi="5000"><tspan
          x="-208.05078"
          y="118.67356"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'">Apollo87Hs PCB rev. pre-alpha | Designed by Gondolindrim | I love frog daddy
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'">Apollo87H PCB revision beta | Designed by Gondolindrim | </tspan><tspan
+           style="font-style:italic">I love frog daddy</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'">
 </tspan></tspan></text>
     <g
-       aria-label="Apollo87Hs PCB rev. pre-alpha | Designed by Gondolindrim | I love frog daddy "
-       transform="matrix(0.11979523,0,0,0.11979523,-183.11819,101.07648)"
-       id="text221"
-       style="font-size:10.5833px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect223)">
+       aria-label="Apollo87H PCB revision beta | Designed by Gondolindrim | I love frog daddy
+"
+       transform="matrix(0.11979523,0,0,0.11979523,-183.11819,101.06741)"
+       id="text1059"
+       style="font-size:10.5833px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1061)">
       <g
-         id="g418">
-        <path
-           d="m -202.33539,117.6297 h -4.53338 l 0.8475,-1.36426 h 3.21046 l -1.34358,-3.85505 -2.19107,6.26317 h -1.69499 l 2.30477,-6.57322 c 0.33761,-0.91639 0.86471,-1.37804 1.58129,-1.38493 0.71658,0.007 1.24023,0.46851 1.57096,1.38493 l 2.31509,6.57322 h -1.69498 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path225"
-           sodipodi:nodetypes="ccccccccccccc" />
-        <path
-           d="m -197.80854,112.18302 v 6.49054 h -1.5813 v -6.46987 c 0,-0.46853 0.19982,-0.8406 0.59945,-1.11621 0.26871,-0.17915 0.56499,-0.26872 0.88883,-0.26872 h 2.1394 c 0.95773,0 1.72599,0.28594 2.30476,0.85783 0.4892,0.4892 0.7338,1.09209 0.7338,1.80867 v 0.29972 c 0,0.88883 -0.35484,1.58474 -1.06453,2.08772 -0.55121,0.38585 -1.20922,0.57878 -1.97403,0.57878 h -3.03477 l 0.84749,-1.36426 h 2.18728 c 0.64767,0 1.0852,-0.22393 1.31257,-0.67179 0.0896,-0.18603 0.13436,-0.39618 0.13436,-0.63045 v -0.29972 c 0,-0.62011 -0.27905,-1.02319 -0.83715,-1.20922 -0.18604,-0.062 -0.3893,-0.093 -0.60978,-0.093 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path227"
-           sodipodi:nodetypes="cccscsscsscsccscssccc" />
-        <path
-           d="m -187.84536,118.77691 h -1.0542 q -1.28157,0 -2.18074,-0.9095 -0.85782,-0.86816 -0.85782,-2.07739 v -2.08772 q 0,-1.2609 0.9095,-2.1394 0.89917,-0.84749 2.12906,-0.84749 h 1.0542 q 1.28157,0 2.18074,0.9095 0.85782,0.86817 0.85782,2.07739 v 2.08772 q 0,1.2609 -0.9095,2.1394 -0.89917,0.84749 -2.12906,0.84749 z m -1.0542,-1.36425 h 1.0542 q 0.71313,0 1.14721,-0.64079 0.29972,-0.44442 0.29972,-0.98185 v -2.08772 q 0,-0.81648 -0.5891,-1.30224 -0.38241,-0.32039 -0.85783,-0.32039 h -1.0542 q -0.71313,0 -1.14721,0.63045 -0.31006,0.44441 -0.31006,0.99218 v 2.08772 q 0,0.80615 0.57878,1.29191 0.40307,0.33073 0.87849,0.33073 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path229" />
-        <path
-           d="m -181.94393,117.3093 h 3.74136 l 0.7338,1.36426 h -4.56818 q -0.76481,0 -1.20922,-0.57878 -0.27906,-0.36173 -0.27906,-0.80615 v -6.46987 h 1.5813 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path231" />
-        <path
-           d="m -175.26736,117.3093 h 3.74137 l 0.7338,1.36426 h -4.56818 q -0.76481,0 -1.20923,-0.57878 -0.27905,-0.36173 -0.27905,-0.80615 v -6.46987 h 1.58129 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path233" />
-        <path
-           d="m -166.42038,118.77691 h -1.05419 q -1.28158,0 -2.18074,-0.9095 -0.85783,-0.86816 -0.85783,-2.07739 v -2.08772 q 0,-1.2609 0.9095,-2.1394 0.89917,-0.84749 2.12907,-0.84749 h 1.05419 q 1.28157,0 2.18074,0.9095 0.85783,0.86817 0.85783,2.07739 v 2.08772 q 0,1.2609 -0.90951,2.1394 -0.89916,0.84749 -2.12906,0.84749 z m -1.05419,-1.36425 h 1.05419 q 0.71313,0 1.14721,-0.64079 0.29973,-0.44442 0.29973,-0.98185 v -2.08772 q 0,-0.81648 -0.58911,-1.30224 -0.38241,-0.32039 -0.85783,-0.32039 h -1.05419 q -0.71314,0 -1.14722,0.63045 -0.31006,0.44441 -0.31006,0.99218 v 2.08772 q 0,0.80615 0.57878,1.29191 0.40307,0.33073 0.8785,0.33073 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path235" />
-        <path
-           d="m -158.31754,118.67356 h -0.8785 q -1.70532,0 -2.5218,-0.97152 -0.46509,-0.54777 -0.46509,-1.24023 0,-0.98185 0.86816,-1.62263 0.16537,-0.11369 0.34107,-0.20671 -0.74414,-0.69246 -0.78548,-1.63297 0,-0.96118 0.75447,-1.59163 0.7028,-0.58911 1.80867,-0.58911 h 0.8785 q 1.44693,0 2.14973,0.95085 0.41341,0.54777 0.41341,1.22989 0,0.94051 -0.71313,1.57096 -0.0413,0.0413 -0.0724,0.062 1.00252,0.5271 1.17822,1.48828 0.031,0.1757 0.031,0.34106 0,0.97152 -0.83716,1.59163 -0.82682,0.62012 -2.14973,0.62012 z m 0,-1.36426 q 0.97151,0 1.32291,-0.54776 0.11369,-0.19637 0.11369,-0.40308 0,-0.49609 -0.54777,-0.77514 -0.37207,-0.18604 -0.88883,-0.18604 h -0.8785 q -0.97151,0 -1.32291,0.55811 -0.11369,0.19637 -0.11369,0.40307 0,0.50643 0.5581,0.77514 0.37207,0.1757 0.8785,0.1757 z m 0,-5.12628 h -0.8785 q -0.7028,0 -0.94051,0.54777 -0.0723,0.1757 -0.0723,0.37207 0,0.53743 0.45475,0.78547 0.24804,0.13436 0.5581,0.13436 h 0.8785 q 0.69246,0 0.94051,-0.53743 0.0827,-0.18603 0.0827,-0.3824 0,-0.53744 -0.46509,-0.79582 -0.24804,-0.12402 -0.5581,-0.12402 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path237" />
-        <path
-           d="m -152.33343,118.67356 h -1.74666 l 3.70002,-6.49054 h -3.88605 l -0.83716,-1.36426 h 5.05394 q 1.10587,0 1.16789,0.96118 0,0.0517 0,0.10336 0,0.7338 -0.47543,1.56062 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path239" />
-        <path
-           d="m -146.15295,114.9632 -0.55886,-0.85783 h 3.95916 v -3.28661 h 1.59163 v 7.8548 h -1.59163 v -3.20393 h -3.4003 v 3.20393 h -1.58129 v -7.8548 h 1.58129 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path241"
-           sodipodi:nodetypes="cccccccccccccc" />
-        <path
-           d="m -139.91046,113.06151 q 0,-0.95084 0.88884,-1.6123 0.85782,-0.63045 2.04638,-0.63045 h 1.05419 q 0.96118,0 1.86035,0.44442 0.37207,0.19637 0.59944,0.41341 l -1.38492,1.06453 q -0.34106,-0.47542 -0.93017,-0.54777 -0.0724,-0.0103 -0.1447,-0.0103 h -1.05419 q -0.77515,0 -1.16789,0.43408 -0.1757,0.21704 -0.1757,0.44441 0,0.40308 0.85783,0.69247 0.26872,0.093 0.9095,0.25838 1.55029,0.40307 2.17041,0.78548 1.01285,0.62011 1.02319,1.63297 0,0.94051 -0.90951,1.60196 -0.89916,0.64079 -2.12906,0.64079 h -1.05419 q -1.00252,0 -1.94303,-0.44442 -0.39274,-0.19637 -0.62012,-0.41341 l 1.36426,-1.05419 q 0.36173,0.45475 1.01285,0.53743 0.10335,0.0103 0.18604,0.0103 h 1.05419 q 0.83716,0 1.2609,-0.44441 0.18604,-0.20671 0.18604,-0.43408 0,-0.45475 -0.85783,-0.75448 -0.12402,-0.0517 -1.49861,-0.42374 -1.5813,-0.42375 -2.14973,-1.02319 -0.45476,-0.49609 -0.45476,-1.16789 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path243" />
-        <path
-           d="m -127.36346,112.18302 v 6.49054 h -1.58129 v -6.46987 c 0,-0.46853 0.19981,-0.8406 0.59944,-1.11621 0.26872,-0.17915 0.565,-0.26872 0.88883,-0.26872 h 2.1394 c 0.95773,0 1.72599,0.28594 2.30476,0.85783 0.48921,0.4892 0.73381,1.09209 0.73381,1.80867 v 0.29972 c 0,0.88883 -0.35485,1.58474 -1.06454,2.08772 -0.55121,0.38585 -1.20922,0.57878 -1.97403,0.57878 h -3.11472 l 0.84749,-1.36426 h 2.26723 c 0.64768,0 1.08521,-0.22393 1.31258,-0.67179 0.0896,-0.18603 0.13436,-0.39618 0.13436,-0.63045 v -0.29972 c 0,-0.62011 -0.27905,-1.02319 -0.83716,-1.20922 -0.18603,-0.062 -0.38929,-0.093 -0.60978,-0.093 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path245"
-           sodipodi:nodetypes="cccscsscsscsccscssscc" />
-        <path
-           d="m -119.93241,113.80565 v 1.88102 q 0,0.80615 0.57877,1.29191 0.40308,0.33072 0.8785,0.33072 h 1.05419 q 0.64079,0 1.08521,-0.43408 0.062,-0.062 0.10335,-0.11368 l 1.37459,1.05419 q -0.57878,0.54777 -1.788,0.77515 -0.42375,0.0827 -0.77515,0.0827 h -1.05419 q -1.28157,0 -2.18074,-0.90951 -0.85783,-0.86816 -0.85783,-2.07738 v -1.88102 q 0,-1.2609 0.90951,-2.13939 0.89916,-0.8475 2.12906,-0.8475 h 1.05419 q 1.00252,0 1.94303,0.44442 0.39274,0.19637 0.62012,0.41341 l -1.37459,1.06453 q -0.36174,-0.46508 -1.00252,-0.54777 -0.10335,-0.0103 -0.18604,-0.0103 h -1.05419 q -0.71313,0 -1.14721,0.63045 -0.31006,0.44441 -0.31006,0.99218 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path247" />
-        <path
-           d="m -108.30525,114.63247 c 0.66835,0.3514 1.06109,0.84749 1.17822,1.48828 0.0207,0.11713 0.031,0.23082 0.031,0.34106 0,0.64768 -0.27905,1.17822 -0.83716,1.59163 -0.55121,0.41341 -1.26779,0.62012 -2.14973,0.62012 h -3.62767 v -6.46987 c 0,-0.46853 0.19981,-0.8406 0.59944,-1.11621 0.26872,-0.17915 0.565,-0.26872 0.88883,-0.26872 h 2.1394 c 0.96463,0 1.6812,0.31695 2.14973,0.95085 0.27561,0.36518 0.41341,0.77514 0.41341,1.22989 0,0.62701 -0.23771,1.15066 -0.71313,1.57096 -0.0275,0.0275 -0.0517,0.0482 -0.0724,0.062 z m -3.96494,-0.60978 h 2.18728 c 0.46164,0 0.7717,-0.17914 0.93017,-0.53743 0.0551,-0.12402 0.0827,-0.25149 0.0827,-0.3824 0,-0.36518 -0.15848,-0.63045 -0.47543,-0.79582 -0.15847,-0.0827 -0.33762,-0.12402 -0.53743,-0.12402 h -2.04638 v 5.12628 h 2.04638 c 0.64767,0 1.08864,-0.18259 1.32291,-0.54776 0.0758,-0.13091 0.11369,-0.26527 0.11369,-0.40308 0,-0.33073 -0.18259,-0.58911 -0.54777,-0.77514 -0.24805,-0.12403 -0.54432,-0.18604 -0.88883,-0.18604 h -3.03477 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path249"
-           sodipodi:nodetypes="scscscscsscsccscscsssccscscscc" />
-        <path
-           d="m -101.1946,112.18302 v 6.49054 h -1.58129 v -6.46987 c 0,-0.46853 0.19981,-0.8406 0.59944,-1.11621 0.26872,-0.17915 0.565,-0.26872 0.88884,-0.26872 h 2.139393 c 0.957733,0 1.725987,0.28594 2.304761,0.85783 0.489202,0.4892 0.733803,1.09209 0.733803,1.80867 v 0.29972 c 0,0.89573 -0.354844,1.59163 -1.064531,2.08772 -0.268717,0.18604 -0.564994,0.32729 -0.888832,0.42375 l 2.129063,2.37711 h -1.974034 l -1.963698,-2.22208 h -2.311295 l 0.84749,-1.36426 h 2.187273 c 0.647676,0 1.085202,-0.22393 1.312577,-0.67179 0.08957,-0.18603 0.134358,-0.39618 0.134358,-0.63045 v -0.29972 c 0,-0.62011 -0.279052,-1.02319 -0.837155,-1.20922 -0.186035,-0.062 -0.389295,-0.093 -0.60978,-0.093 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path251"
-           sodipodi:nodetypes="cccscsscsscccccccscssssc" />
-        <path
-           d="m -93.298461,115.46963 v 1.83967 h 4.051419 l 0.744138,1.36426 h -4.888575 q -0.754473,0 -1.209224,-0.56844 -0.289387,-0.37207 -0.289387,-0.81649 v -5.08494 q 0,-0.69246 0.599444,-1.10587 0.403075,-0.27906 0.899167,-0.27906 h 4.888575 l -0.744138,1.36426 h -4.051419 v 1.92235 h 3.731026 v 1.36426 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path253" />
-        <path
-           d="m -83.965724,117.08193 2.191074,-6.26317 h 1.694981 l -2.304761,6.57323 q -0.506428,1.37458 -1.581294,1.38492 -1.074866,-0.0103 -1.570958,-1.38492 l -2.315097,-6.57323 h 1.694981 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path255" />
-        <path
-           d="m -80.958166,118.23948 q 0,-0.53744 0.454751,-0.82682 0.248046,-0.15503 0.527098,-0.15503 0.537433,0 0.82682,0.45475 0.155029,0.24804 0.155029,0.5271 0,0.53743 -0.454751,0.82682 -0.248046,0.15503 -0.527098,0.15503 -0.537433,0 -0.826821,-0.45476 -0.155028,-0.24804 -0.155028,-0.52709 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path257" />
-        <path
-           d="m -73.082705,112.18302 v 6.49054 h -1.581294 v -6.46987 c 0,-0.46853 0.199815,-0.8406 0.599445,-1.11621 0.268717,-0.17915 0.564994,-0.26872 0.888832,-0.26872 h 2.139397 c 0.957734,0 1.725988,0.28594 2.304762,0.85783 0.489202,0.4892 0.733803,1.09209 0.733803,1.80867 v 0.29972 c 0,0.88883 -0.354844,1.58474 -1.064531,2.08772 -0.551213,0.38585 -1.209225,0.57878 -1.974034,0.57878 h -3.034771 l 0.847491,-1.36426 h 2.18728 c 0.647676,0 1.085202,-0.22393 1.312578,-0.67179 0.08957,-0.18603 0.134358,-0.39618 0.134358,-0.63045 v -0.29972 c 0,-0.62011 -0.279052,-1.02319 -0.837156,-1.20922 -0.186034,-0.062 -0.389294,-0.093 -0.60978,-0.093 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path259"
-           sodipodi:nodetypes="cccscsscsscsccscssssc" />
-        <path
-           d="m -65.310595,112.18302 v 6.49054 h -1.581294 v -6.46987 c 0,-0.46853 0.199815,-0.8406 0.599445,-1.11621 0.268717,-0.17915 0.564994,-0.26872 0.888832,-0.26872 h 2.139397 c 0.957734,0 1.725988,0.28594 2.304762,0.85783 0.489202,0.4892 0.733803,1.09209 0.733803,1.80867 v 0.29972 c 0,0.89573 -0.354844,1.59163 -1.064531,2.08772 -0.268717,0.18604 -0.564994,0.32729 -0.888832,0.42375 l 2.129062,2.37711 h -1.974033 l -1.963698,-2.22208 h -2.311304 l 0.847491,-1.36426 h 2.18728 c 0.647676,0 1.085202,-0.22393 1.312578,-0.67179 0.08957,-0.18603 0.134358,-0.39618 0.134358,-0.63045 v -0.29972 c 0,-0.62011 -0.279052,-1.02319 -0.837156,-1.20922 -0.186034,-0.062 -0.389294,-0.093 -0.60978,-0.093 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path261"
-           sodipodi:nodetypes="cccscsscsscccccccscssssc" />
-        <path
-           d="m -57.414466,115.46963 v 1.83967 h 4.051419 l 0.744138,1.36426 h -4.888575 q -0.754473,0 -1.209224,-0.56844 -0.289387,-0.37207 -0.289387,-0.81649 v -5.08494 q 0,-0.69246 0.599444,-1.10587 0.403075,-0.27906 0.899167,-0.27906 h 4.888575 l -0.744138,1.36426 h -4.051419 v 1.92235 h 3.731026 v 1.36426 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path263" />
-        <path
-           d="m -51.58538,115.46963 v -1.36426 h 4.103096 v 1.36426 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path265" />
-        <path
-           d="m -41.281126,117.6297 h -4.533383 l 0.847491,-1.36426 h 3.210471 l -1.343583,-3.85505 -2.191074,6.26317 h -1.694982 l 2.304762,-6.57322 c 0.337618,-0.91639 0.864716,-1.37804 1.581294,-1.38493 0.716577,0.007 1.24023,0.46851 1.570958,1.38493 l 2.315097,6.57322 h -1.694982 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path267"
-           sodipodi:nodetypes="ccccccccccccc" />
-        <path
-           d="m -36.733619,117.3093 h 3.741361 l 0.733803,1.36426 h -4.568182 q -0.764808,0 -1.209224,-0.57878 -0.279052,-0.36173 -0.279052,-0.80615 v -6.46987 h 1.581294 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path269" />
-        <path
-           d="m -30.077715,112.18302 v 6.49054 h -1.581294 v -6.46987 c 0,-0.46853 0.199815,-0.8406 0.599445,-1.11621 0.268717,-0.17915 0.564994,-0.26872 0.888832,-0.26872 h 2.139397 c 0.957733,0 1.725987,0.28594 2.304762,0.85783 0.489202,0.4892 0.733803,1.09209 0.733803,1.80867 v 0.29972 c 0,0.88883 -0.354844,1.58474 -1.064532,2.08772 -0.551213,0.38585 -1.209224,0.57878 -1.974033,0.57878 h -3.034772 l 0.847491,-1.36426 h 2.187281 c 0.647676,0 1.085202,-0.22393 1.312577,-0.67179 0.08957,-0.18603 0.134359,-0.39618 0.134359,-0.63045 v -0.29972 c 0,-0.62011 -0.279052,-1.02319 -0.837156,-1.20922 -0.186035,-0.062 -0.389295,-0.093 -0.60978,-0.093 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path271"
-           sodipodi:nodetypes="cccscsscsscsccscssssc" />
-        <path
-           d="m -22.233258,114.9632 -0.326286,-0.85783 h 3.726584 v -3.28661 h 1.591629 v 7.8548 h -1.591629 v -3.20393 h -3.400298 v 3.20393 h -1.581294 v -7.8548 h 1.581294 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path273"
-           sodipodi:nodetypes="cccccccccccccc" />
-        <path
-           d="m -10.709455,117.6297 h -4.533384 l 0.847491,-1.36426 h 3.210471 l -1.343583,-3.85505 -2.191074,6.26317 h -1.694981 l 2.304761,-6.57322 c 0.337619,-0.91639 0.864717,-1.37804 1.581294,-1.38493 0.716577,0.007 1.24023,0.46851 1.570959,1.38493 l 2.3150965,6.57322 h -1.6949815 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path275"
-           sodipodi:nodetypes="ccccccccccccc" />
-        <path
-           d="m -4.497968,110.39502 h 0.733803 v 10.18022 h -0.733803 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path277" />
-        <path
-           d="m 5.9819915,115.68667 v -1.88102 q 0,-0.81648 -0.5891094,-1.30224 -0.3824044,-0.32039 -0.8578261,-0.32039 H 2.4886758 v 5.12628 H 4.535056 q 0.7131325,0 1.1472132,-0.64078 0.2997223,-0.44442 0.2997223,-0.98185 z m -5.07460947,-3.48298 q 0,-0.7028 0.59944467,-1.11621 0.4030749,-0.26872 0.8888318,-0.26872 H 4.535056 q 1.2815715,0 2.1807385,0.90951 0.8578261,0.86816 0.8578261,2.07738 v 1.88102 q 0,1.2609 -0.9095023,2.1394 -0.8991671,0.84749 -2.1290623,0.84749 H 0.90738203 Z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path279" />
-        <path
-           d="m 10.312462,115.46963 v 1.83967 h 4.05142 l 0.744138,1.36426 h -4.888575 q -0.7544733,0 -1.2092245,-0.56844 -0.2893871,-0.37207 -0.2893871,-0.81649 v -5.08494 q 0,-0.69246 0.5994447,-1.10587 0.4030749,-0.27906 0.8991669,-0.27906 h 4.888575 l -0.744138,1.36426 h -4.05142 v 1.92235 h 3.731027 v 1.36426 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path281" />
-        <path
-           d="m 15.99684,113.06151 q 0,-0.95084 0.888832,-1.6123 0.857826,-0.63045 2.04638,-0.63045 h 1.054196 q 0.961178,0 1.860346,0.44442 0.372069,0.19637 0.599444,0.41341 l -1.384924,1.06453 q -0.341063,-0.47542 -0.930173,-0.54777 -0.07235,-0.0103 -0.144693,-0.0103 h -1.054196 q -0.775144,0 -1.167884,0.43408 -0.175699,0.21704 -0.175699,0.44441 0,0.40308 0.857826,0.69247 0.268717,0.093 0.909502,0.25838 1.550288,0.40307 2.170404,0.78548 1.012855,0.62011 1.02319,1.63297 0,0.94051 -0.909503,1.60196 -0.899167,0.64079 -2.129062,0.64079 H 18.45663 q -1.002519,0 -1.943027,-0.44442 -0.39274,-0.19637 -0.620115,-0.41341 l 1.364253,-1.05419 q 0.361734,0.45475 1.012855,0.53743 0.103352,0.0103 0.186034,0.0103 h 1.054196 q 0.837156,0 1.260901,-0.44441 0.186035,-0.20671 0.186035,-0.43408 0,-0.45475 -0.857826,-0.75448 -0.124023,-0.0517 -1.498612,-0.42374 -1.581294,-0.42375 -2.149733,-1.02319 -0.454751,-0.49609 -0.454751,-1.16789 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path283" />
-        <path
-           d="m 23.861977,110.81876 h 1.581294 v 7.8548 h -1.581294 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path285" />
-        <path
-           d="m 29.639373,110.81876 h 1.054196 q 1.00252,0 1.943028,0.44442 0.392739,0.19637 0.620115,0.41341 l -1.374589,1.06453 q -0.361734,-0.46508 -1.002519,-0.54777 -0.103353,-0.0103 -0.186035,-0.0103 h -1.054196 q -0.702797,0 -1.136878,0.63045 -0.299722,0.44441 -0.299722,0.99218 v 1.88102 q 0,0.80615 0.578774,1.29191 0.403075,0.33072 0.878497,0.33072 h 2.036045 v -2.5528 h 1.591629 v 2.53213 q 0,0.7028 -0.599445,1.11621 -0.403075,0.26872 -0.888832,0.26872 h -2.139397 q -1.281572,0 -2.180739,-0.90951 -0.857826,-0.86816 -0.857826,-2.07738 v -1.88102 q 0,-1.27123 0.919838,-2.14973 0.878496,-0.83716 2.098056,-0.83716 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path287" />
-        <path
-           d="m 36.25394,110.76709 q 0.868161,0 1.405594,1.01285 0.08268,0.16537 0.175699,0.37207 l 2.201409,5.1883 v -6.52155 h 1.581294 v 6.52155 q 0,0.66146 -0.63045,1.0852 -0.444416,0.29972 -0.961179,0.29972 -0.868161,0 -1.405594,-1.01285 -0.08268,-0.16537 -0.1757,-0.37207 l -2.201409,-5.1883 v 6.52155 h -1.581293 v -6.52155 q 0,-0.66145 0.63045,-1.0852 0.444416,-0.29972 0.961179,-0.29972 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path289" />
-        <path
-           d="m 44.604821,115.46963 v 1.83967 h 4.051419 l 0.744139,1.36426 h -4.888575 q -0.754474,0 -1.209225,-0.56844 -0.289387,-0.37207 -0.289387,-0.81649 v -5.08494 q 0,-0.69246 0.599445,-1.10587 0.403074,-0.27906 0.899167,-0.27906 h 4.888575 l -0.744139,1.36426 h -4.051419 v 1.92235 h 3.731026 v 1.36426 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path291" />
-        <path
-           d="m 55.622205,115.68667 v -1.88102 q 0,-0.81648 -0.58911,-1.30224 -0.382404,-0.32039 -0.857826,-0.32039 h -2.04638 v 5.12628 h 2.04638 q 0.713133,0 1.147213,-0.64078 0.299723,-0.44442 0.299723,-0.98185 z m -5.07461,-3.48298 q 0,-0.7028 0.599445,-1.11621 0.403075,-0.26872 0.888832,-0.26872 h 2.139397 q 1.281571,0 2.180739,0.90951 0.857826,0.86816 0.857826,2.07738 v 1.88102 q 0,1.2609 -0.909503,2.1394 -0.899167,0.84749 -2.129062,0.84749 h -3.627674 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path293" />
-        <path
-           d="m 67.021994,114.63247 c 0.668347,0.3514 1.061086,0.84749 1.178219,1.48828 0.02067,0.11713 0.03101,0.23082 0.03101,0.34106 0,0.64768 -0.279052,1.17822 -0.837156,1.59163 -0.551213,0.41341 -1.267791,0.62012 -2.149733,0.62012 H 61.61666 v -6.46987 c 0,-0.46853 0.199815,-0.8406 0.599445,-1.11621 0.268717,-0.17915 0.564994,-0.26872 0.888832,-0.26872 h 2.139397 c 0.964624,0 1.681202,0.31695 2.149733,0.95085 0.275607,0.36518 0.41341,0.77514 0.41341,1.22989 0,0.62701 -0.237711,1.15066 -0.713132,1.57096 -0.02756,0.0275 -0.05168,0.0482 -0.07235,0.062 z m -3.964945,-0.60978 h 2.187281 c 0.461641,0 0.771699,-0.17914 0.930173,-0.53743 0.05512,-0.12402 0.08268,-0.25149 0.08268,-0.3824 0,-0.36518 -0.158474,-0.63045 -0.475421,-0.79582 -0.158474,-0.0827 -0.337619,-0.12402 -0.537434,-0.12402 h -2.04638 v 5.12628 h 2.04638 c 0.647676,0 1.088647,-0.18259 1.322913,-0.54776 0.07579,-0.13091 0.113688,-0.26527 0.113688,-0.40308 0,-0.33073 -0.18259,-0.58911 -0.547769,-0.77514 -0.248046,-0.12403 -0.544323,-0.18604 -0.888832,-0.18604 h -3.034771 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path295"
-           sodipodi:nodetypes="scscscscsscscsscscsssccscscscc" />
-        <path
-           d="m 72.5927,114.2294 2.191074,-3.41064 h 1.694981 l -2.315096,3.7207 q -0.413411,0.64078 -0.764809,0.89916 v 3.23494 h -1.591629 v -3.21427 q -0.403075,-0.28938 -0.795815,-0.91983 l -2.304761,-3.7207 h 1.694981 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path297" />
-        <path
-           d="m 83.03131,110.81876 h 1.054196 q 1.00252,0 1.943028,0.44442 0.39274,0.19637 0.620115,0.41341 l -1.374588,1.06453 q -0.361734,-0.46508 -1.00252,-0.54777 -0.103353,-0.0103 -0.186035,-0.0103 H 83.03131 q -0.702797,0 -1.136877,0.63045 -0.299723,0.44441 -0.299723,0.99218 v 1.88102 q 0,0.80615 0.578774,1.29191 0.403075,0.33072 0.878497,0.33072 h 2.036045 v -2.5528 h 1.591629 v 2.53213 q 0,0.7028 -0.599445,1.11621 -0.403075,0.26872 -0.888832,0.26872 h -2.139397 q -1.281571,0 -2.180739,-0.90951 -0.857826,-0.86816 -0.857826,-2.07738 v -1.88102 q 0,-1.27123 0.919838,-2.14973 0.878497,-0.83716 2.098056,-0.83716 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path299" />
-        <path
-           d="M 91.826615,118.77691 H 90.77242 q -1.281572,0 -2.180739,-0.9095 -0.857826,-0.86816 -0.857826,-2.07739 v -2.08772 q 0,-1.2609 0.909502,-2.1394 0.899167,-0.84749 2.129063,-0.84749 h 1.054195 q 1.281572,0 2.180739,0.9095 0.857826,0.86817 0.857826,2.07739 v 2.08772 q 0,1.2609 -0.909502,2.1394 -0.899167,0.84749 -2.129063,0.84749 z m -1.054195,-1.36425 h 1.054195 q 0.713133,0 1.147214,-0.64079 0.299722,-0.44442 0.299722,-0.98185 v -2.08772 q 0,-0.81648 -0.58911,-1.30224 -0.382404,-0.32039 -0.857826,-0.32039 H 90.77242 q -0.713133,0 -1.147214,0.63045 -0.310057,0.44441 -0.310057,0.99218 v 2.08772 q 0,0.80615 0.578774,1.29191 0.403075,0.33073 0.878497,0.33073 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path301" />
-        <path
-           d="m 97.717685,110.76709 q 0.868161,0 1.405594,1.01285 0.08268,0.16537 0.1757,0.37207 l 2.201411,5.1883 v -6.52155 h 1.58129 v 6.52155 q 0,0.66146 -0.63045,1.0852 -0.44441,0.29972 -0.96118,0.29972 -0.86816,0 -1.40559,-1.01285 -0.0827,-0.16537 -0.175701,-0.37207 l -2.201409,-5.1883 v 6.52155 h -1.581294 v -6.52155 q 0,-0.66145 0.63045,-1.0852 0.444416,-0.29972 0.961179,-0.29972 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path303" />
-        <path
-           d="m 109.63423,115.68667 v -1.88102 q 0,-0.81648 -0.58911,-1.30224 -0.38241,-0.32039 -0.85783,-0.32039 h -2.04638 v 5.12628 h 2.04638 q 0.71314,0 1.14722,-0.64078 0.29972,-0.44442 0.29972,-0.98185 z m -5.07461,-3.48298 q 0,-0.7028 0.59944,-1.11621 0.40308,-0.26872 0.88884,-0.26872 h 2.13939 q 1.28157,0 2.18074,0.90951 0.85783,0.86816 0.85783,2.07738 v 1.88102 q 0,1.2609 -0.9095,2.1394 -0.89917,0.84749 -2.12907,0.84749 h -3.62767 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path305" />
-        <path
-           d="m 116.22814,118.77691 h -1.0542 q -1.28157,0 -2.18074,-0.9095 -0.85783,-0.86816 -0.85783,-2.07739 v -2.08772 q 0,-1.2609 0.90951,-2.1394 0.89916,-0.84749 2.12906,-0.84749 h 1.0542 q 1.28157,0 2.18073,0.9095 0.85783,0.86817 0.85783,2.07739 v 2.08772 q 0,1.2609 -0.9095,2.1394 -0.89917,0.84749 -2.12906,0.84749 z m -1.0542,-1.36425 h 1.0542 q 0.71313,0 1.14721,-0.64079 0.29972,-0.44442 0.29972,-0.98185 v -2.08772 q 0,-0.81648 -0.58911,-1.30224 -0.3824,-0.32039 -0.85782,-0.32039 h -1.0542 q -0.71313,0 -1.14721,0.63045 -0.31006,0.44441 -0.31006,0.99218 v 2.08772 q 0,0.80615 0.57877,1.29191 0.40308,0.33073 0.8785,0.33073 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path307" />
-        <path
-           d="m 122.12957,117.3093 h 3.74136 l 0.73381,1.36426 h -4.56819 q -0.76481,0 -1.20922,-0.57878 -0.27905,-0.36173 -0.27905,-0.80615 v -6.46987 h 1.58129 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path309" />
-        <path
-           d="m 127.27653,110.81876 h 1.58129 v 7.8548 h -1.58129 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path311" />
-        <path
-           d="m 131.96872,110.76709 q 0.86816,0 1.4056,1.01285 0.0827,0.16537 0.1757,0.37207 l 2.20141,5.1883 v -6.52155 h 1.58129 v 6.52155 q 0,0.66146 -0.63045,1.0852 -0.44442,0.29972 -0.96118,0.29972 -0.86816,0 -1.40559,-1.01285 -0.0827,-0.16537 -0.1757,-0.37207 l -2.20141,-5.1883 v 6.52155 h -1.5813 v -6.52155 q 0,-0.66145 0.63045,-1.0852 0.44442,-0.29972 0.96118,-0.29972 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path313" />
-        <path
-           d="m 143.88527,115.68667 v -1.88102 q 0,-0.81648 -0.58911,-1.30224 -0.38241,-0.32039 -0.85783,-0.32039 h -2.04638 v 5.12628 h 2.04638 q 0.71313,0 1.14721,-0.64078 0.29973,-0.44442 0.29973,-0.98185 z m -5.07461,-3.48298 q 0,-0.7028 0.59944,-1.11621 0.40308,-0.26872 0.88883,-0.26872 h 2.1394 q 1.28157,0 2.18074,0.90951 0.85783,0.86816 0.85783,2.07738 v 1.88102 q 0,1.2609 -0.90951,2.1394 -0.89916,0.84749 -2.12906,0.84749 h -3.62767 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path315" />
-        <path
-           d="m 148.2881,112.18302 v 6.49054 h -1.58129 v -6.46987 c 0,-0.46853 0.19981,-0.8406 0.59944,-1.11621 0.26871,-0.17915 0.56499,-0.26872 0.88883,-0.26872 h 2.1394 c 0.95773,0 1.72599,0.28594 2.30476,0.85783 0.4892,0.4892 0.7338,1.09209 0.7338,1.80867 v 0.29972 c 0,0.89573 -0.35484,1.59163 -1.06453,2.08772 -0.26871,0.18604 -0.56499,0.32729 -0.88883,0.42375 l 2.12906,2.37711 h -1.97403 l -3.05544,-2.22208 h -1.21956 l 0.84749,-1.36426 h 2.18728 c 0.64767,0 1.0852,-0.22393 1.31258,-0.67179 0.0896,-0.18603 0.13435,-0.39618 0.13435,-0.63045 v -0.29972 c 0,-0.62011 -0.27905,-1.02319 -0.83715,-1.20922 -0.18603,-0.062 -0.38929,-0.093 -0.60978,-0.093 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path317"
-           sodipodi:nodetypes="cccscsscsscccccccscssssc" />
-        <path
-           d="m 154.74763,110.81876 h 1.58129 v 7.8548 h -1.58129 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path319" />
-        <path
-           d="m 165.05186,112.4414 -1.75699,5.08494 h -1.67431 l -1.75699,-5.08494 -0.59945,6.23216 h -1.69498 l 0.72347,-6.54222 q 0.10335,-0.8785 0.82682,-1.22989 0.29972,-0.13436 0.63045,-0.13436 0.71313,0 1.0852,0.54777 0.093,0.13435 0.15503,0.28938 l 1.46761,4.29947 1.4676,-4.29947 q 0.23771,-0.64078 0.91984,-0.79581 0.16536,-0.0413 0.32039,-0.0413 0.74414,0 1.16789,0.57877 0.23771,0.34107 0.28938,0.78548 l 0.72347,6.54222 h -1.69498 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path321" />
-        <path
-           d="m 171.81111,110.39502 h 0.73381 v 10.18022 h -0.73381 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-           id="path323" />
+         id="g1250"
+         transform="matrix(1.2299701,0,0,1.2299701,47.843092,-25.387559)">
         <g
-           id="g97"
-           transform="matrix(1,0,-0.20873707,1,23.951777,0)">
+           id="g1325"
+           style="stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
-             d="m 177.28883,110.81876 h 1.58129 v 7.8548 h -1.58129 z"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-             id="path325" />
-          <path
-             d="m 185.16427,117.3093 h 3.74136 l 0.7338,1.36426 h -4.56818 q -0.76481,0 -1.20922,-0.57878 -0.27905,-0.36173 -0.27905,-0.80615 v -6.46987 h 1.58129 z"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-             id="path327" />
-          <path
-             d="m 194.01125,118.77691 h -1.0542 q -1.28157,0 -2.18074,-0.9095 -0.85782,-0.86816 -0.85782,-2.07739 v -2.08772 q 0,-1.2609 0.9095,-2.1394 0.89917,-0.84749 2.12906,-0.84749 h 1.0542 q 1.28157,0 2.18074,0.9095 0.85782,0.86817 0.85782,2.07739 v 2.08772 q 0,1.2609 -0.9095,2.1394 -0.89917,0.84749 -2.12906,0.84749 z m -1.0542,-1.36425 h 1.0542 q 0.71313,0 1.14721,-0.64079 0.29972,-0.44442 0.29972,-0.98185 v -2.08772 q 0,-0.81648 -0.58911,-1.30224 -0.3824,-0.32039 -0.85782,-0.32039 h -1.0542 q -0.71313,0 -1.14721,0.63045 -0.31006,0.44441 -0.31006,0.99218 v 2.08772 q 0,0.80615 0.57877,1.29191 0.40308,0.33073 0.8785,0.33073 z"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-             id="path329" />
-          <path
-             d="m 201.70068,117.08193 2.19107,-6.26317 h 1.69499 l -2.30477,6.57323 q -0.50642,1.37458 -1.58129,1.38492 -1.07487,-0.0103 -1.57096,-1.38492 l -2.31509,-6.57323 h 1.69498 z"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-             id="path331" />
-          <path
-             d="m 208.00518,115.46963 v 1.83967 h 4.05142 l 0.74414,1.36426 h -4.88858 q -0.75447,0 -1.20922,-0.56844 -0.28939,-0.37207 -0.28939,-0.81649 v -5.08494 q 0,-0.69246 0.59945,-1.10587 0.40307,-0.27906 0.89916,-0.27906 h 4.88858 l -0.74414,1.36426 h -4.05142 v 1.92235 h 3.73103 v 1.36426 z"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-             id="path333" />
-          <path
-             d="m 218.70216,115.46963 v 3.20393 h -1.58129 v -6.46987 q 0,-0.7028 0.59944,-1.11621 0.40308,-0.26872 0.88883,-0.26872 h 4.88858 l -0.74414,1.36426 h -4.05142 v 1.92235 h 3.74136 v 1.36426 z"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-             id="path335" />
-          <path
-             d="m 225.87483,112.18302 v 6.49054 h -1.58129 v -6.46987 c 0,-0.46853 0.19981,-0.8406 0.59944,-1.11621 0.26872,-0.17915 0.565,-0.26872 0.88883,-0.26872 h 2.1394 c 0.95773,0 1.72599,0.28594 2.30476,0.85783 0.4892,0.4892 0.7338,1.09209 0.7338,1.80867 v 0.29972 c 0,0.89573 -0.35484,1.59163 -1.06453,2.08772 -0.26871,0.18604 -0.56499,0.32729 -0.88883,0.42375 l 2.12906,2.37711 h -1.97403 l -1.9637,-2.22208 h -2.3113 l 0.84749,-1.36426 h 2.18728 c 0.64767,0 1.0852,-0.22393 1.31258,-0.67179 0.0896,-0.18603 0.13436,-0.39618 0.13436,-0.63045 v -0.29972 c 0,-0.62011 -0.27905,-1.02319 -0.83716,-1.20922 -0.18603,-0.062 -0.38929,-0.093 -0.60978,-0.093 z"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-             id="path337"
-             sodipodi:nodetypes="cccscsscsscccccccscssssc" />
-          <path
-             d="m 236.03438,118.77691 h -1.0542 q -1.28157,0 -2.18074,-0.9095 -0.85782,-0.86816 -0.85782,-2.07739 v -2.08772 q 0,-1.2609 0.9095,-2.1394 0.89917,-0.84749 2.12906,-0.84749 h 1.0542 q 1.28157,0 2.18074,0.9095 0.85782,0.86817 0.85782,2.07739 v 2.08772 q 0,1.2609 -0.9095,2.1394 -0.89917,0.84749 -2.12906,0.84749 z m -1.0542,-1.36425 h 1.0542 q 0.71313,0 1.14721,-0.64079 0.29972,-0.44442 0.29972,-0.98185 v -2.08772 q 0,-0.81648 -0.5891,-1.30224 -0.38241,-0.32039 -0.85783,-0.32039 h -1.0542 q -0.71313,0 -1.14721,0.63045 -0.31006,0.44441 -0.31006,0.99218 v 2.08772 q 0,0.80615 0.57878,1.29191 0.40307,0.33073 0.87849,0.33073 z"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-             id="path339" />
-          <path
-             d="m 243.01068,110.81876 h 1.0542 q 1.00252,0 1.94302,0.44442 0.39274,0.19637 0.62012,0.41341 l -1.37459,1.06453 q -0.36173,-0.46508 -1.00252,-0.54777 -0.10335,-0.0103 -0.18603,-0.0103 h -1.0542 q -0.7028,0 -1.13688,0.63045 -0.29972,0.44441 -0.29972,0.99218 v 1.88102 q 0,0.80615 0.57877,1.29191 0.40308,0.33072 0.8785,0.33072 h 2.03605 v -2.5528 h 1.59163 v 2.53213 q 0,0.7028 -0.59945,1.11621 -0.40307,0.26872 -0.88883,0.26872 h -2.1394 q -1.28157,0 -2.18074,-0.90951 -0.85782,-0.86816 -0.85782,-2.07738 v -1.88102 q 0,-1.27123 0.91983,-2.14973 0.8785,-0.83716 2.09806,-0.83716 z"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-             id="path341" />
-          <path
-             d="m 256.28114,115.68667 v -1.88102 q 0,-0.81648 -0.58911,-1.30224 -0.3824,-0.32039 -0.85783,-0.32039 h -2.04638 v 5.12628 h 2.04638 q 0.71314,0 1.14722,-0.64078 0.29972,-0.44442 0.29972,-0.98185 z m -5.07461,-3.48298 q 0,-0.7028 0.59945,-1.11621 0.40307,-0.26872 0.88883,-0.26872 h 2.13939 q 1.28158,0 2.18074,0.90951 0.85783,0.86816 0.85783,2.07738 v 1.88102 q 0,1.2609 -0.9095,2.1394 -0.89917,0.84749 -2.12907,0.84749 h -3.62767 z"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-             id="path343" />
-          <path
-             d="m 264.12561,117.6297 h -4.53338 l 0.84749,-1.36426 h 3.21047 l -1.34358,-3.85505 -2.19108,6.26317 h -1.69498 l 2.30476,-6.57322 c 0.33762,-0.91639 0.86472,-1.37804 1.5813,-1.38493 0.71657,0.007 1.24023,0.46851 1.57096,1.38493 l 2.31509,6.57322 h -1.69498 z"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-             id="path345"
+             d="m -202.33539,117.6297 h -4.63398 l 0.8475,-1.36426 h 3.31106 l -1.34358,-3.85505 -2.19107,6.26317 h -1.69499 l 2.30477,-6.57322 c 0.33761,-0.91639 0.86471,-1.37804 1.58129,-1.38493 0.71658,0.007 1.24023,0.46851 1.57096,1.38493 l 2.31509,6.57322 h -1.69498 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1063"
              sodipodi:nodetypes="ccccccccccccc" />
           <path
-             d="m 272.14576,115.68667 v -1.88102 q 0,-0.81648 -0.58911,-1.30224 -0.3824,-0.32039 -0.85782,-0.32039 h -2.04638 v 5.12628 h 2.04638 q 0.71313,0 1.14721,-0.64078 0.29972,-0.44442 0.29972,-0.98185 z m -5.07461,-3.48298 q 0,-0.7028 0.59945,-1.11621 0.40307,-0.26872 0.88883,-0.26872 h 2.1394 q 1.28157,0 2.18074,0.90951 0.85782,0.86816 0.85782,2.07738 v 1.88102 q 0,1.2609 -0.9095,2.1394 -0.89917,0.84749 -2.12906,0.84749 h -3.62768 z"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-             id="path347" />
+             d="m -197.80854,112.18302 v 6.49054 h -1.5813 v -6.46987 c 0,-0.46853 0.19982,-0.8406 0.59945,-1.11621 0.26871,-0.17915 0.56499,-0.26872 0.88883,-0.26872 h 2.1394 c 0.95773,0 1.72599,0.28594 2.30476,0.85783 0.4892,0.4892 0.7338,1.09209 0.7338,1.80867 v 0.29972 c 0,0.88883 -0.35484,1.58474 -1.06453,2.08772 -0.55121,0.38585 -1.20922,0.57878 -1.97403,0.57878 h -3.03672 l 0.84749,-1.36426 h 2.18923 c 0.64767,0 1.0852,-0.22393 1.31257,-0.67179 0.0896,-0.18603 0.13436,-0.39618 0.13436,-0.63045 v -0.29972 c 0,-0.62011 -0.27905,-1.02319 -0.83715,-1.20922 -0.18604,-0.062 -0.3893,-0.093 -0.60978,-0.093 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1065"
+             sodipodi:nodetypes="cccscsscsscsccscssccc" />
           <path
-             d="m 280.04191,115.68667 v -1.88102 q 0,-0.81648 -0.58911,-1.30224 -0.3824,-0.32039 -0.85782,-0.32039 h -2.04638 v 5.12628 h 2.04638 q 0.71313,0 1.14721,-0.64078 0.29972,-0.44442 0.29972,-0.98185 z m -5.07461,-3.48298 q 0,-0.7028 0.59945,-1.11621 0.40307,-0.26872 0.88883,-0.26872 h 2.1394 q 1.28157,0 2.18074,0.90951 0.85782,0.86816 0.85782,2.07738 v 1.88102 q 0,1.2609 -0.9095,2.1394 -0.89917,0.84749 -2.12906,0.84749 h -3.62768 z"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-             id="path349" />
+             d="m -187.84536,118.77691 h -1.0542 q -1.28157,0 -2.18074,-0.9095 -0.85782,-0.86816 -0.85782,-2.07739 v -2.08772 q 0,-1.2609 0.9095,-2.1394 0.89917,-0.84749 2.12906,-0.84749 h 1.0542 q 1.28157,0 2.18074,0.9095 0.85782,0.86817 0.85782,2.07739 v 2.08772 q 0,1.2609 -0.9095,2.1394 -0.89917,0.84749 -2.12906,0.84749 z m -1.0542,-1.36425 h 1.0542 q 0.71313,0 1.14721,-0.64079 0.29972,-0.44442 0.29972,-0.98185 v -2.08772 q 0,-0.81648 -0.5891,-1.30224 -0.38241,-0.32039 -0.85783,-0.32039 h -1.0542 q -0.71313,0 -1.14721,0.63045 -0.31006,0.44441 -0.31006,0.99218 v 2.08772 q 0,0.80615 0.57878,1.29191 0.40307,0.33073 0.87849,0.33073 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1067" />
           <path
-             d="m 286.07769,114.2294 2.19107,-3.41064 h 1.69498 l -2.3151,3.7207 q -0.41341,0.64078 -0.7648,0.89916 v 3.23494 h -1.59163 v -3.21427 q -0.40308,-0.28938 -0.79582,-0.91983 l -2.30476,-3.7207 h 1.69498 z"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space'"
-             id="path351" />
+             d="m -181.94393,117.3093 h 3.74136 l 0.7338,1.36426 h -4.56818 q -0.76481,0 -1.20922,-0.57878 -0.27906,-0.36173 -0.27906,-0.80615 v -6.46987 h 1.5813 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1069" />
+          <path
+             d="m -175.26736,117.3093 h 3.74137 l 0.7338,1.36426 h -4.56818 q -0.76481,0 -1.20923,-0.57878 -0.27905,-0.36173 -0.27905,-0.80615 v -6.46987 h 1.58129 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1071" />
+          <path
+             d="m -166.42038,118.77691 h -1.05419 q -1.28158,0 -2.18074,-0.9095 -0.85783,-0.86816 -0.85783,-2.07739 v -2.08772 q 0,-1.2609 0.9095,-2.1394 0.89917,-0.84749 2.12907,-0.84749 h 1.05419 q 1.28157,0 2.18074,0.9095 0.85783,0.86817 0.85783,2.07739 v 2.08772 q 0,1.2609 -0.90951,2.1394 -0.89916,0.84749 -2.12906,0.84749 z m -1.05419,-1.36425 h 1.05419 q 0.71313,0 1.14721,-0.64079 0.29973,-0.44442 0.29973,-0.98185 v -2.08772 q 0,-0.81648 -0.58911,-1.30224 -0.38241,-0.32039 -0.85783,-0.32039 h -1.05419 q -0.71314,0 -1.14722,0.63045 -0.31006,0.44441 -0.31006,0.99218 v 2.08772 q 0,0.80615 0.57878,1.29191 0.40307,0.33073 0.8785,0.33073 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1073" />
+          <path
+             d="m -158.31754,118.67356 h -0.8785 q -1.70532,0 -2.5218,-0.97152 -0.46509,-0.54777 -0.46509,-1.24023 0,-0.98185 0.86816,-1.62263 0.16537,-0.11369 0.34107,-0.20671 -0.74414,-0.69246 -0.78548,-1.63297 0,-0.96118 0.75447,-1.59163 0.7028,-0.58911 1.80867,-0.58911 h 0.8785 q 1.44693,0 2.14973,0.95085 0.41341,0.54777 0.41341,1.22989 0,0.94051 -0.71313,1.57096 -0.0413,0.0413 -0.0724,0.062 1.00252,0.5271 1.17822,1.48828 0.031,0.1757 0.031,0.34106 0,0.97152 -0.83716,1.59163 -0.82682,0.62012 -2.14973,0.62012 z m 0,-1.36426 q 0.97151,0 1.32291,-0.54776 0.11369,-0.19637 0.11369,-0.40308 0,-0.49609 -0.54777,-0.77514 -0.37207,-0.18604 -0.88883,-0.18604 h -0.8785 q -0.97151,0 -1.32291,0.55811 -0.11369,0.19637 -0.11369,0.40307 0,0.50643 0.5581,0.77514 0.37207,0.1757 0.8785,0.1757 z m 0,-5.12628 h -0.8785 q -0.7028,0 -0.94051,0.54777 -0.0723,0.1757 -0.0723,0.37207 0,0.53743 0.45475,0.78547 0.24804,0.13436 0.5581,0.13436 h 0.8785 q 0.69246,0 0.94051,-0.53743 0.0827,-0.18603 0.0827,-0.3824 0,-0.53744 -0.46509,-0.79582 -0.24804,-0.12402 -0.5581,-0.12402 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1075" />
+          <path
+             d="m -152.33343,118.67356 h -1.74666 l 3.70002,-6.49054 h -3.88605 l -0.83716,-1.36426 h 5.05394 q 1.10587,0 1.16789,0.96118 0,0.0517 0,0.10336 0,0.7338 -0.47543,1.56062 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1077" />
+          <path
+             d="m -146.15295,114.9632 -0.58562,-0.85783 h 3.98592 v -3.28661 h 1.59163 v 7.8548 h -1.59163 v -3.20393 h -3.4003 v 3.20393 h -1.58129 v -7.8548 h 1.58129 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1079"
+             sodipodi:nodetypes="cccccccccccccc" />
+          <path
+             d="m -134.89786,112.18302 v 6.49054 h -1.58129 v -6.46987 c 0,-0.46853 0.19981,-0.8406 0.59944,-1.11621 0.26872,-0.17915 0.565,-0.26872 0.88883,-0.26872 h 2.1394 c 0.95773,0 1.72599,0.28594 2.30476,0.85783 0.4892,0.4892 0.7338,1.09209 0.7338,1.80867 v 0.29972 c 0,0.88883 -0.35484,1.58474 -1.06453,2.08772 -0.55121,0.38585 -1.20922,0.57878 -1.97403,0.57878 h -3.14918 l 0.84749,-1.36426 h 2.30169 c 0.64767,0 1.0852,-0.22393 1.31258,-0.67179 0.0896,-0.18603 0.13436,-0.39618 0.13436,-0.63045 v -0.29972 c 0,-0.62011 -0.27905,-1.02319 -0.83716,-1.20922 -0.18603,-0.062 -0.38929,-0.093 -0.60978,-0.093 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1081"
+             sodipodi:nodetypes="cccscsscsscsccscssscc" />
+          <path
+             d="m -127.46681,113.80565 v 1.88102 q 0,0.80615 0.57877,1.29191 0.40308,0.33072 0.8785,0.33072 h 1.05419 q 0.64079,0 1.08521,-0.43408 0.062,-0.062 0.10335,-0.11368 l 1.37459,1.05419 q -0.57878,0.54777 -1.788,0.77515 -0.42375,0.0827 -0.77515,0.0827 h -1.05419 q -1.28157,0 -2.18074,-0.90951 -0.85783,-0.86816 -0.85783,-2.07738 v -1.88102 q 0,-1.2609 0.90951,-2.13939 0.89916,-0.8475 2.12906,-0.8475 h 1.05419 q 1.00252,0 1.94303,0.44442 0.39274,0.19637 0.62012,0.41341 l -1.37459,1.06453 q -0.36174,-0.46508 -1.00252,-0.54777 -0.10335,-0.0103 -0.18604,-0.0103 h -1.05419 q -0.71313,0 -1.14722,0.63045 -0.31005,0.44441 -0.31005,0.99218 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1083" />
+          <path
+             d="m -115.83965,114.63247 c 0.66835,0.3514 1.06109,0.84749 1.17822,1.48828 0.0207,0.11713 0.031,0.23082 0.031,0.34106 0,0.64768 -0.27905,1.17822 -0.83716,1.59163 -0.55121,0.41341 -1.26779,0.62012 -2.14973,0.62012 h -3.62767 v -6.46987 c 0,-0.46853 0.19981,-0.8406 0.59944,-1.11621 0.26871,-0.17915 0.56499,-0.26872 0.88883,-0.26872 h 2.1394 c 0.96462,0 1.6812,0.31695 2.14973,0.95085 0.27561,0.36518 0.41341,0.77514 0.41341,1.22989 0,0.62701 -0.23771,1.15066 -0.71313,1.57096 -0.0275,0.0275 -0.0517,0.0482 -0.0724,0.062 z m -4.09135,-0.60978 h 2.31369 c 0.46164,0 0.7717,-0.17914 0.93017,-0.53743 0.0551,-0.12402 0.0827,-0.25149 0.0827,-0.3824 0,-0.36518 -0.15847,-0.63045 -0.47542,-0.79582 -0.15847,-0.0827 -0.33762,-0.12402 -0.53743,-0.12402 h -2.04638 v 5.12628 h 2.04638 c 0.64767,0 1.08864,-0.18259 1.32291,-0.54776 0.0758,-0.13091 0.11369,-0.26527 0.11369,-0.40308 0,-0.33073 -0.18259,-0.58911 -0.54777,-0.77514 -0.24805,-0.12403 -0.54432,-0.18604 -0.88883,-0.18604 h -3.16118 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1085"
+             sodipodi:nodetypes="scscscscsscsccscscsssccscscscc" />
+          <path
+             d="m -108.729,112.18302 v 6.49054 h -1.58129 v -6.46987 c 0,-0.46853 0.19981,-0.8406 0.59944,-1.11621 0.26872,-0.17915 0.565,-0.26872 0.88883,-0.26872 h 2.1394 c 0.95773,0 1.72599,0.28594 2.30476,0.85783 0.48921,0.4892 0.73381,1.09209 0.73381,1.80867 v 0.29972 c 0,0.89573 -0.35484,1.59163 -1.06453,2.08772 -0.26872,0.18604 -0.565,0.32729 -0.88884,0.42375 l 2.12907,2.37711 h -1.97404 l -1.9637,-2.22208 h -2.55712 l 0.84749,-1.36426 h 2.4331 c 0.64768,0 1.08521,-0.22393 1.31258,-0.67179 0.0896,-0.18603 0.13436,-0.39618 0.13436,-0.63045 v -0.29972 c 0,-0.62011 -0.27905,-1.02319 -0.83716,-1.20922 -0.18603,-0.062 -0.38929,-0.093 -0.60978,-0.093 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1087"
+             sodipodi:nodetypes="cccscsscsscccccccscssssc" />
+          <path
+             d="m -100.83286,115.46963 v 1.83967 h 4.051417 l 0.744138,1.36426 h -4.888575 q -0.75447,0 -1.20922,-0.56844 -0.28939,-0.37207 -0.28939,-0.81649 v -5.08494 q 0,-0.69246 0.59944,-1.10587 0.40308,-0.27906 0.89917,-0.27906 h 4.888575 l -0.744138,1.36426 h -4.051417 v 1.92235 h 3.731024 v 1.36426 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1089" />
+          <path
+             d="m -91.500125,117.08193 2.191074,-6.26317 h 1.694981 l -2.304761,6.57323 q -0.506428,1.37458 -1.581294,1.38492 -1.074866,-0.0103 -1.570958,-1.38492 l -2.315097,-6.57323 h 1.694981 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1091" />
+          <path
+             d="m -86.632225,110.81876 h 1.581294 v 7.8548 h -1.581294 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1093" />
+          <path
+             d="m -83.790025,113.06151 q 0,-0.95084 0.888832,-1.6123 0.857826,-0.63045 2.04638,-0.63045 h 1.054196 q 0.961178,0 1.860345,0.44442 0.372069,0.19637 0.599445,0.41341 l -1.384924,1.06453 q -0.341063,-0.47542 -0.930173,-0.54777 -0.07235,-0.0103 -0.144693,-0.0103 h -1.054196 q -0.775144,0 -1.167884,0.43408 -0.175699,0.21704 -0.175699,0.44441 0,0.40308 0.857826,0.69247 0.268716,0.093 0.909502,0.25838 1.550288,0.40307 2.170403,0.78548 1.012855,0.62011 1.023191,1.63297 0,0.94051 -0.909503,1.60196 -0.899167,0.64079 -2.129062,0.64079 h -1.054196 q -1.002519,0 -1.943028,-0.44442 -0.392739,-0.19637 -0.620115,-0.41341 l 1.364254,-1.05419 q 0.361734,0.45475 1.012855,0.53743 0.103352,0.0103 0.186034,0.0103 h 1.054196 q 0.837156,0 1.260901,-0.44441 0.186035,-0.20671 0.186035,-0.43408 0,-0.45475 -0.857827,-0.75448 -0.124023,-0.0517 -1.498611,-0.42374 -1.581294,-0.42375 -2.149733,-1.02319 -0.454751,-0.49609 -0.454751,-1.16789 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1095" />
+          <path
+             d="m -75.924904,110.81876 h 1.581294 v 7.8548 h -1.581294 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1097" />
+          <path
+             d="m -69.051955,118.77691 h -1.054196 q -1.281571,0 -2.180738,-0.9095 -0.857827,-0.86816 -0.857827,-2.07739 v -2.08772 q 0,-1.2609 0.909503,-2.1394 0.899167,-0.84749 2.129062,-0.84749 h 1.054196 q 1.281571,0 2.180738,0.9095 0.857826,0.86817 0.857826,2.07739 v 2.08772 q 0,1.2609 -0.909502,2.1394 -0.899167,0.84749 -2.129062,0.84749 z m -1.054196,-1.36425 h 1.054196 q 0.713132,0 1.147213,-0.64079 0.299722,-0.44442 0.299722,-0.98185 v -2.08772 q 0,-0.81648 -0.589109,-1.30224 -0.382404,-0.32039 -0.857826,-0.32039 h -1.054196 q -0.713132,0 -1.147213,0.63045 -0.310058,0.44441 -0.310058,0.99218 v 2.08772 q 0,0.80615 0.578774,1.29191 0.403075,0.33073 0.878497,0.33073 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1099" />
+          <path
+             d="m -63.160855,110.76709 q 0.868161,0 1.405594,1.01285 0.08268,0.16537 0.1757,0.37207 l 2.201409,5.1883 v -6.52155 h 1.581293 v 6.52155 q 0,0.66146 -0.63045,1.0852 -0.444416,0.29972 -0.961179,0.29972 -0.868161,0 -1.405594,-1.01285 -0.08268,-0.16537 -0.1757,-0.37207 l -2.201409,-5.1883 v 6.52155 h -1.581293 v -6.52155 q 0,-0.66145 0.63045,-1.0852 0.444416,-0.29972 0.961179,-0.29972 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1101" />
+          <path
+             d="m -47.740671,114.63247 c 0.668347,0.3514 1.061086,0.84749 1.178219,1.48828 0.02067,0.11713 0.03101,0.23082 0.03101,0.34106 0,0.64768 -0.279052,1.17822 -0.837156,1.59163 -0.551213,0.41341 -1.267791,0.62012 -2.149732,0.62012 h -3.627674 v -6.46987 c 0,-0.46853 0.199815,-0.8406 0.599444,-1.11621 0.268717,-0.17915 0.564994,-0.26872 0.888832,-0.26872 h 2.139398 c 0.964623,0 1.681201,0.31695 2.149732,0.95085 0.275607,0.36518 0.41341,0.77514 0.41341,1.22989 0,0.62701 -0.237711,1.15066 -0.713132,1.57096 -0.02756,0.0275 -0.05168,0.0482 -0.07235,0.062 z m -4.057117,-0.60978 h 2.279454 c 0.461641,0 0.771699,-0.17914 0.930172,-0.53743 0.05512,-0.12402 0.08268,-0.25149 0.08268,-0.3824 0,-0.36518 -0.158474,-0.63045 -0.475421,-0.79582 -0.158474,-0.0827 -0.337618,-0.12402 -0.537433,-0.12402 h -2.046381 v 5.12628 h 2.046381 c 0.647675,0 1.088646,-0.18259 1.322912,-0.54776 0.07579,-0.13091 0.113688,-0.26527 0.113688,-0.40308 0,-0.33073 -0.18259,-0.58911 -0.547769,-0.77514 -0.248046,-0.12403 -0.544323,-0.18604 -0.888831,-0.18604 h -3.126945 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1103"
+             sodipodi:nodetypes="scscscscsscscsscscsssccscscscc" />
+          <path
+             d="m -43.875282,115.46963 v 1.83967 h 4.05142 l 0.744138,1.36426 h -4.888575 q -0.754473,0 -1.209225,-0.56844 -0.289387,-0.37207 -0.289387,-0.81649 v -5.08494 q 0,-0.69246 0.599445,-1.10587 0.403075,-0.27906 0.899167,-0.27906 h 4.888575 l -0.744138,1.36426 h -4.05142 v 1.92235 h 3.731027 v 1.36426 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1105" />
+          <path
+             d="m -34.625226,118.67356 h -1.591629 v -6.46987 c 0,-0.46164 0.199815,-0.83026 0.599444,-1.10587 0.268717,-0.18604 0.568439,-0.27906 0.899167,-0.27906 h 2.346103 v 1.36426 h -2.253085 z m 0.50751,-7.8548 -0.847491,1.36426 h -3.36004 v -1.36426 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1107"
+             sodipodi:nodetypes="ccscsccccccccc" />
+          <path
+             d="m -27.328535,117.6297 h -4.337771 l 0.847491,-1.36426 h 3.014858 l -1.343582,-3.85505 -2.191074,6.26317 h -1.694982 l 2.304762,-6.57322 c 0.337618,-0.91639 0.864716,-1.37804 1.581294,-1.38493 0.716577,0.007 1.24023,0.46851 1.570958,1.38493 l 2.315097,6.57322 h -1.694982 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1109"
+             sodipodi:nodetypes="ccccccccccccc" />
+          <path
+             d="m -21.117048,110.39502 h 0.733803 v 10.18022 h -0.733803 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1111" />
+          <path
+             d="m -10.637103,115.68667 v -1.88102 q 0,-0.81648 -0.58911,-1.30224 -0.382404,-0.32039 -0.857826,-0.32039 h -2.04638 v 5.12628 h 2.04638 q 0.713133,0 1.147213,-0.64078 0.299723,-0.44442 0.299723,-0.98185 z m -5.07461,-3.48298 q 0,-0.7028 0.599445,-1.11621 0.403075,-0.26872 0.888832,-0.26872 h 2.139397 q 1.281572,0 2.1807387,0.90951 0.857826,0.86816 0.857826,2.07738 v 1.88102 q 0,1.2609 -0.9095023,2.1394 -0.8991674,0.84749 -2.1290624,0.84749 h -3.627674 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1113" />
+          <path
+             d="m -6.3066324,115.46963 v 1.83967 h 4.0514194 l 0.7441383,1.36426 h -4.888575 q -0.7544735,0 -1.2092246,-0.56844 -0.2893871,-0.37207 -0.2893871,-0.81649 v -5.08494 q 0,-0.69246 0.5994447,-1.10587 0.4030749,-0.27906 0.899167,-0.27906 h 4.888575 l -0.7441383,1.36426 h -4.0514194 v 1.92235 h 3.7310266 v 1.36426 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1115" />
+          <path
+             d="m -0.62223954,113.06151 q 0,-0.95084 0.8888318,-1.6123 0.85782604,-0.63045 2.04638024,-0.63045 h 1.0541958 q 0.9611786,0 1.8603457,0.44442 0.3720691,0.19637 0.5994447,0.41341 l -1.384924,1.06453 q -0.3410634,-0.47542 -0.9301728,-0.54777 -0.072347,-0.0103 -0.1446936,-0.0103 H 2.3129725 q -0.775144,0 -1.1678837,0.43408 -0.17569929,0.21704 -0.17569929,0.44441 0,0.40308 0.85782609,0.69247 0.2687165,0.093 0.9095023,0.25838 1.550288,0.40307 2.1704032,0.78548 1.0128549,0.62011 1.0231901,1.63297 0,0.94051 -0.9095023,1.60196 -0.8991671,0.64079 -2.1290622,0.64079 H 1.8375508 q -1.00251959,0 -1.94302766,-0.44442 -0.39273964,-0.19637 -0.62011522,-0.41341 l 1.36425347,-1.05419 q 0.36173391,0.45475 1.01285481,0.53743 0.1033526,0.0103 0.1860346,0.0103 h 1.0541959 q 0.8371555,0 1.2609009,-0.44441 0.1860346,-0.20671 0.1860346,-0.43408 0,-0.45475 -0.8578261,-0.75448 -0.124023,-0.0517 -1.4986117,-0.42374 -1.58129384,-0.42375 -2.14973278,-1.02319 -0.45475116,-0.49609 -0.45475116,-1.16789 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1117" />
+          <path
+             d="m 7.2428819,110.81876 h 1.5812938 v 7.8548 H 7.2428819 Z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1119" />
+          <path
+             d="m 13.020294,110.81876 h 1.054195 q 1.00252,0 1.943028,0.44442 0.39274,0.19637 0.620115,0.41341 l -1.374588,1.06453 q -0.361734,-0.46508 -1.00252,-0.54777 -0.103352,-0.0103 -0.186035,-0.0103 h -1.054195 q -0.702798,0 -1.136878,0.63045 -0.299723,0.44441 -0.299723,0.99218 v 1.88102 q 0,0.80615 0.578775,1.29191 0.403074,0.33072 0.878496,0.33072 h 2.036045 v -2.5528 h 1.591629 v 2.53213 q 0,0.7028 -0.599445,1.11621 -0.403074,0.26872 -0.888831,0.26872 h -2.139398 q -1.281571,0 -2.180738,-0.90951 Q 10.0024,116.89592 10.0024,115.6867 v -1.88102 q 0,-1.27123 0.919837,-2.14973 0.878497,-0.83716 2.098057,-0.83716 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1121" />
+          <path
+             d="m 19.63486,110.76709 q 0.868161,0 1.405595,1.01285 0.08268,0.16537 0.175699,0.37207 l 2.201409,5.1883 v -6.52155 h 1.581294 v 6.52155 q 0,0.66146 -0.630451,1.0852 -0.444416,0.29972 -0.961178,0.29972 -0.868162,0 -1.405595,-1.01285 -0.08268,-0.16537 -0.175699,-0.37207 l -2.201409,-5.1883 v 6.52155 h -1.581294 v -6.52155 q 0,-0.66145 0.63045,-1.0852 0.444416,-0.29972 0.961179,-0.29972 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1123" />
+          <path
+             d="m 27.985741,115.46963 v 1.83967 h 4.05142 l 0.744138,1.36426 h -4.888575 q -0.754474,0 -1.209225,-0.56844 -0.289387,-0.37207 -0.289387,-0.81649 v -5.08494 q 0,-0.69246 0.599445,-1.10587 0.403075,-0.27906 0.899167,-0.27906 h 4.888575 l -0.744138,1.36426 h -4.05142 v 1.92235 h 3.731027 v 1.36426 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1125" />
+          <path
+             d="m 39.003125,115.68667 v -1.88102 q 0,-0.81648 -0.58911,-1.30224 -0.382404,-0.32039 -0.857826,-0.32039 h -2.04638 v 5.12628 h 2.04638 q 0.713133,0 1.147214,-0.64078 0.299722,-0.44442 0.299722,-0.98185 z m -5.07461,-3.48298 q 0,-0.7028 0.599445,-1.11621 0.403075,-0.26872 0.888832,-0.26872 h 2.139397 q 1.281572,0 2.180739,0.90951 0.857826,0.86816 0.857826,2.07738 v 1.88102 q 0,1.2609 -0.909502,2.1394 -0.899167,0.84749 -2.129063,0.84749 h -3.627674 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1127" />
+          <path
+             d="m 50.402899,114.63247 c 0.668347,0.3514 1.061086,0.84749 1.178219,1.48828 0.02067,0.11713 0.03101,0.23082 0.03101,0.34106 0,0.64768 -0.279052,1.17822 -0.837156,1.59163 -0.551213,0.41341 -1.267791,0.62012 -2.149733,0.62012 h -3.627674 v -6.46987 c 0,-0.46853 0.199815,-0.8406 0.599445,-1.11621 0.268717,-0.17915 0.564994,-0.26872 0.888832,-0.26872 h 2.139397 c 0.964624,0 1.681202,0.31695 2.149733,0.95085 0.275607,0.36518 0.41341,0.77514 0.41341,1.22989 0,0.62701 -0.237711,1.15066 -0.713132,1.57096 -0.02756,0.0275 -0.05168,0.0482 -0.07235,0.062 z m -4.364313,-0.60978 h 2.586649 c 0.461641,0 0.771699,-0.17914 0.930173,-0.53743 0.05512,-0.12402 0.08268,-0.25149 0.08268,-0.3824 0,-0.36518 -0.158474,-0.63045 -0.475421,-0.79582 -0.158474,-0.0827 -0.337619,-0.12402 -0.537434,-0.12402 h -2.04638 v 5.12628 h 2.04638 c 0.647676,0 1.088647,-0.18259 1.322913,-0.54776 0.07579,-0.13091 0.113688,-0.26527 0.113688,-0.40308 0,-0.33073 -0.18259,-0.58911 -0.547769,-0.77514 -0.248046,-0.12403 -0.544323,-0.18604 -0.888832,-0.18604 h -3.43414 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1129"
+             sodipodi:nodetypes="scscscscsscscsscscsssccscscscc" />
+          <path
+             d="m 55.97362,114.2294 2.191074,-3.41064 h 1.694982 l -2.315097,3.7207 q -0.41341,0.64078 -0.764809,0.89916 v 3.23494 h -1.591629 v -3.21427 q -0.403075,-0.28938 -0.795814,-0.91983 l -2.304762,-3.7207 h 1.694982 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1131" />
+          <path
+             d="m 66.4122,110.81876 h 1.054196 q 1.00252,0 1.943028,0.44442 0.39274,0.19637 0.620115,0.41341 l -1.374589,1.06453 q -0.361733,-0.46508 -1.002519,-0.54777 -0.103353,-0.0103 -0.186035,-0.0103 H 66.4122 q -0.702797,0 -1.136878,0.63045 -0.299722,0.44441 -0.299722,0.99218 v 1.88102 q 0,0.80615 0.578774,1.29191 0.403075,0.33072 0.878497,0.33072 h 2.036045 v -2.5528 h 1.591629 v 2.53213 q 0,0.7028 -0.599445,1.11621 -0.403075,0.26872 -0.888832,0.26872 h -2.139397 q -1.281572,0 -2.180739,-0.90951 -0.857826,-0.86816 -0.857826,-2.07738 v -1.88102 q 0,-1.27123 0.919838,-2.14973 0.878496,-0.83716 2.098056,-0.83716 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1133" />
+          <path
+             d="m 75.207505,118.77691 h -1.054196 q -1.281571,0 -2.180738,-0.9095 -0.857826,-0.86816 -0.857826,-2.07739 v -2.08772 q 0,-1.2609 0.909502,-2.1394 0.899167,-0.84749 2.129062,-0.84749 h 1.054196 q 1.281572,0 2.180739,0.9095 0.857826,0.86817 0.857826,2.07739 v 2.08772 q 0,1.2609 -0.909502,2.1394 -0.899168,0.84749 -2.129063,0.84749 z m -1.054196,-1.36425 h 1.054196 q 0.713133,0 1.147213,-0.64079 0.299723,-0.44442 0.299723,-0.98185 v -2.08772 q 0,-0.81648 -0.58911,-1.30224 -0.382404,-0.32039 -0.857826,-0.32039 h -1.054196 q -0.713132,0 -1.147213,0.63045 -0.310057,0.44441 -0.310057,0.99218 v 2.08772 q 0,0.80615 0.578774,1.29191 0.403075,0.33073 0.878496,0.33073 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1135" />
+          <path
+             d="m 81.098605,110.76709 q 0.868161,0 1.405595,1.01285 0.08268,0.16537 0.175699,0.37207 l 2.201409,5.1883 v -6.52155 h 1.581294 v 6.52155 q 0,0.66146 -0.630451,1.0852 -0.444416,0.29972 -0.961178,0.29972 -0.868162,0 -1.405595,-1.01285 -0.08268,-0.16537 -0.175699,-0.37207 l -2.201409,-5.1883 v 6.52155 h -1.581294 v -6.52155 q 0,-0.66145 0.630451,-1.0852 0.444416,-0.29972 0.961178,-0.29972 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1137" />
+          <path
+             d="m 93.015149,115.68667 v -1.88102 q 0,-0.81648 -0.58911,-1.30224 -0.382404,-0.32039 -0.857826,-0.32039 h -2.04638 v 5.12628 h 2.04638 q 0.713133,0 1.147214,-0.64078 0.299722,-0.44442 0.299722,-0.98185 z m -5.07461,-3.48298 q 0,-0.7028 0.599445,-1.11621 0.403075,-0.26872 0.888832,-0.26872 h 2.139397 q 1.281572,0 2.180739,0.90951 0.857826,0.86816 0.857826,2.07738 v 1.88102 q 0,1.2609 -0.909502,2.1394 -0.899167,0.84749 -2.129063,0.84749 h -3.627674 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1139" />
+          <path
+             d="M 99.609056,118.77691 H 98.55486 q -1.281572,0 -2.180739,-0.9095 -0.857826,-0.86816 -0.857826,-2.07739 v -2.08772 q 0,-1.2609 0.909503,-2.1394 0.899167,-0.84749 2.129062,-0.84749 h 1.054196 q 1.281574,0 2.180734,0.9095 0.85783,0.86817 0.85783,2.07739 v 2.08772 q 0,1.2609 -0.9095,2.1394 -0.89917,0.84749 -2.129064,0.84749 z m -1.054196,-1.36425 h 1.054196 q 0.713134,0 1.147214,-0.64079 0.29972,-0.44442 0.29972,-0.98185 v -2.08772 q 0,-0.81648 -0.58911,-1.30224 -0.3824,-0.32039 -0.857824,-0.32039 H 98.55486 q -0.713133,0 -1.147213,0.63045 -0.310058,0.44441 -0.310058,0.99218 v 2.08772 q 0,0.80615 0.578774,1.29191 0.403075,0.33073 0.878497,0.33073 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1141" />
+          <path
+             d="m 105.51049,117.3093 h 3.74136 l 0.73381,1.36426 h -4.56819 q -0.76481,0 -1.20922,-0.57878 -0.27905,-0.36173 -0.27905,-0.80615 v -6.46987 h 1.58129 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1143" />
+          <path
+             d="m 110.65745,110.81876 h 1.58129 v 7.8548 h -1.58129 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1145" />
+          <path
+             d="m 115.34964,110.76709 q 0.86816,0 1.4056,1.01285 0.0827,0.16537 0.1757,0.37207 l 2.20141,5.1883 v -6.52155 h 1.58129 v 6.52155 q 0,0.66146 -0.63045,1.0852 -0.44442,0.29972 -0.96118,0.29972 -0.86816,0 -1.40559,-1.01285 -0.0827,-0.16537 -0.1757,-0.37207 l -2.20141,-5.1883 v 6.52155 h -1.5813 v -6.52155 q 0,-0.66145 0.63045,-1.0852 0.44442,-0.29972 0.96118,-0.29972 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1147" />
+          <path
+             d="m 127.26619,115.68667 v -1.88102 q 0,-0.81648 -0.58911,-1.30224 -0.38241,-0.32039 -0.85783,-0.32039 h -2.04638 v 5.12628 h 2.04638 q 0.71313,0 1.14721,-0.64078 0.29973,-0.44442 0.29973,-0.98185 z m -5.07461,-3.48298 q 0,-0.7028 0.59944,-1.11621 0.40308,-0.26872 0.88883,-0.26872 h 2.1394 q 1.28157,0 2.18074,0.90951 0.85783,0.86816 0.85783,2.07738 v 1.88102 q 0,1.2609 -0.90951,2.1394 -0.89916,0.84749 -2.12906,0.84749 h -3.62767 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1149" />
+          <path
+             d="m 131.66899,112.18302 v 6.49054 h -1.58129 v -6.46987 c 0,-0.46853 0.19981,-0.8406 0.59944,-1.11621 0.26871,-0.17915 0.56499,-0.26872 0.88883,-0.26872 h 2.1394 c 0.95773,0 1.72599,0.28594 2.30476,0.85783 0.4892,0.4892 0.7338,1.09209 0.7338,1.80867 v 0.29972 c 0,0.89573 -0.35484,1.59163 -1.06453,2.08772 -0.26871,0.18604 -0.56499,0.32729 -0.88883,0.42375 l 2.12906,2.37711 h -1.97403 l -1.9637,-2.22208 h -2.42474 l 0.84749,-1.36426 h 2.30072 c 0.64767,0 1.0852,-0.22393 1.31258,-0.67179 0.0896,-0.18603 0.13435,-0.39618 0.13435,-0.63045 v -0.29972 c 0,-0.62011 -0.27905,-1.02319 -0.83715,-1.20922 -0.18603,-0.062 -0.38929,-0.093 -0.60978,-0.093 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1151"
+             sodipodi:nodetypes="cccscsscsscccccccscssssc" />
+          <path
+             d="m 138.12855,110.81876 h 1.58129 v 7.8548 h -1.58129 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1153" />
+          <path
+             d="m 148.43279,112.4414 -1.757,5.08494 h -1.67431 l -1.75699,-5.08494 -0.59945,6.23216 h -1.69498 l 0.72347,-6.54222 q 0.10335,-0.8785 0.82682,-1.22989 0.29972,-0.13436 0.63045,-0.13436 0.71313,0 1.0852,0.54777 0.093,0.13435 0.15503,0.28938 l 1.46761,4.29947 1.4676,-4.29947 q 0.23771,-0.64078 0.91984,-0.79581 0.16536,-0.0413 0.32039,-0.0413 0.74414,0 1.16789,0.57877 0.23771,0.34107 0.28938,0.78548 l 0.72347,6.54222 h -1.69498 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1155" />
+          <path
+             d="m 155.19203,110.39502 h 0.73381 v 10.18022 h -0.73381 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'a Astro Space';-inkscape-font-specification:'a Astro Space';stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1157" />
+          <path
+             d="m 162.24067,110.81876 h 1.5813 l -1.57096,7.8548 h -1.58129 z"
+             style="font-style:italic;stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1159" />
+          <path
+             d="m 168.81391,117.3093 h 3.74136 l 0.46508,1.36426 h -4.56818 q -0.76481,0 -1.09553,-0.57878 -0.20671,-0.36173 -0.11369,-0.80615 l 1.2919,-6.46987 h 1.5813 z"
+             style="font-style:italic;stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1161" />
+          <path
+             d="m 177.3715,118.77691 h -1.0542 q -1.28157,0 -1.9947,-0.9095 -0.69247,-0.86816 -0.44442,-2.07739 l 0.41341,-2.08772 q 0.25838,-1.2609 1.34358,-2.1394 1.06454,-0.84749 2.29443,-0.84749 h 1.0542 q 1.28157,0 1.9947,0.9095 0.69246,0.86817 0.44442,2.07739 l -0.41341,2.08772 q -0.25839,1.2609 -1.34359,2.1394 -1.06453,0.84749 -2.29442,0.84749 z m -0.78548,-1.36425 h 1.05419 q 0.71314,0 1.28157,-0.64079 0.38241,-0.44442 0.4961,-0.98185 l 0.41341,-2.08772 q 0.16536,-0.81648 -0.33073,-1.30224 -0.31006,-0.32039 -0.78548,-0.32039 h -1.0542 q -0.71313,0 -1.28157,0.63045 -0.39274,0.44441 -0.50643,0.99218 l -0.41341,2.08772 q -0.16536,0.80615 0.3204,1.29191 0.33073,0.33073 0.80615,0.33073 z"
+             style="font-style:italic;stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1163" />
+          <path
+             d="m 185.40199,117.08193 3.44164,-6.26317 h 1.69499 l -3.61734,6.57323 q -0.78548,1.37458 -1.86035,1.38492 -1.07487,-0.0103 -1.29191,-1.38492 l -1.00252,-6.57323 h 1.69499 z"
+             style="font-style:italic;stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1165" />
+          <path
+             d="m 192.02689,115.46963 -0.37207,1.83967 h 4.05142 l 0.47542,1.36426 h -4.88858 q -0.75447,0 -1.09553,-0.56844 -0.21704,-0.37207 -0.12403,-0.81649 l 1.01286,-5.08494 q 0.14469,-0.69246 0.82682,-1.10587 0.45475,-0.27906 0.95084,-0.27906 h 4.88858 l -1.01286,1.36426 h -4.05142 l -0.39274,1.92235 h 3.73103 l -0.26872,1.36426 z"
+             style="font-style:italic;stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1167" />
+          <path
+             d="m 202.72387,115.46963 -0.64079,3.20393 h -1.58129 l 1.2919,-6.46987 q 0.1447,-0.7028 0.82683,-1.11621 0.45475,-0.26872 0.9405,-0.26872 h 4.88858 l -1.01286,1.36426 h -4.05142 l -0.39274,1.92235 h 3.74137 l -0.26872,1.36426 z"
+             style="font-style:italic;stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1169" />
+          <path
+             d="m 210.55799,112.18302 -1.30224,6.49054 h -1.58129 l 1.2919,-6.46987 c 0.0965,-0.46853 0.37207,-0.8406 0.82682,-1.11621 0.30317,-0.17915 0.61667,-0.26872 0.94051,-0.26872 h 2.1394 c 0.95773,0 1.66742,0.28594 2.12906,0.85783 0.39274,0.4892 0.51676,1.09209 0.37207,1.80867 l -0.0517,0.29972 c -0.17914,0.89573 -0.67523,1.59163 -1.48827,2.08772 -0.30317,0.18604 -0.62701,0.32729 -0.97152,0.42375 l 1.65364,2.37711 h -1.97403 l -1.51928,-2.22208 h -2.47496 l 1.11621,-1.36426 h 2.35093 c 0.64768,0 1.12999,-0.22393 1.44694,-0.67179 0.13091,-0.18603 0.22049,-0.39618 0.26872,-0.63045 l 0.0517,-0.29972 c 0.12403,-0.62011 -0.0723,-1.02319 -0.58911,-1.20922 -0.17225,-0.062 -0.36862,-0.093 -0.58911,-0.093 z"
+             style="font-style:italic;stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1171"
+             sodipodi:nodetypes="cccccssccccccccccscccssc" />
+          <path
+             d="m 219.39463,118.77691 h -1.0542 q -1.28157,0 -1.9947,-0.9095 -0.69246,-0.86816 -0.44442,-2.07739 l 0.41341,-2.08772 q 0.25838,-1.2609 1.34359,-2.1394 1.06453,-0.84749 2.29442,-0.84749 h 1.0542 q 1.28157,0 1.9947,0.9095 0.69246,0.86817 0.44442,2.07739 l -0.41341,2.08772 q -0.25838,1.2609 -1.34358,2.1394 -1.06454,0.84749 -2.29443,0.84749 z m -0.78548,-1.36425 h 1.0542 q 0.71313,0 1.28157,-0.64079 0.3824,-0.44442 0.49609,-0.98185 l 0.41341,-2.08772 q 0.16536,-0.81648 -0.33073,-1.30224 -0.31006,-0.32039 -0.78548,-0.32039 h -1.05419 q -0.71314,0 -1.28158,0.63045 -0.39273,0.44441 -0.50642,0.99218 l -0.41341,2.08772 q -0.16537,0.80615 0.32039,1.29191 0.33073,0.33073 0.80615,0.33073 z"
+             style="font-style:italic;stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1173" />
+          <path
+             d="m 227.96256,110.81876 h 1.0542 q 1.00252,0 1.85001,0.44442 0.36173,0.19637 0.53743,0.41341 l -1.58129,1.06453 q -0.26872,-0.46508 -0.89917,-0.54777 -0.093,-0.0103 -0.1757,-0.0103 h -1.0542 q -0.70279,0 -1.27123,0.63045 -0.38241,0.44441 -0.4961,0.99218 l -0.37206,1.88102 q -0.16537,0.80615 0.32039,1.29191 0.33073,0.33072 0.80615,0.33072 h 2.03604 l 0.51677,-2.5528 h 1.59162 l -0.50642,2.53213 q -0.1447,0.7028 -0.82682,1.11621 -0.45475,0.26872 -0.94051,0.26872 h -2.1394 q -1.28157,0 -1.9947,-0.90951 -0.69246,-0.86816 -0.44442,-2.07738 l 0.37207,-1.88102 q 0.25838,-1.27123 1.35392,-2.14973 1.04386,-0.83716 2.26342,-0.83716 z"
+             style="font-style:italic;stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1175" />
+          <path
+             d="m 240.26151,115.68667 0.37206,-1.88102 q 0.16537,-0.81648 -0.33072,-1.30224 -0.31006,-0.32039 -0.78548,-0.32039 h -2.04638 l -1.03353,5.12628 h 2.04638 q 0.71313,0 1.28157,-0.64078 0.38241,-0.44442 0.4961,-0.98185 z m -4.38215,-3.48298 q 0.14469,-0.7028 0.82682,-1.11621 0.45475,-0.26872 0.94051,-0.26872 h 2.13939 q 1.28157,0 1.99471,0.90951 0.69246,0.86816 0.44441,2.07738 l -0.37207,1.88102 q -0.25838,1.2609 -1.34358,2.1394 -1.06453,0.84749 -2.29443,0.84749 h -3.62767 z"
+             style="font-style:italic;stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1177" />
+          <path
+             d="m 247.71324,117.6297 h -4.71229 l 1.12654,-1.36426 h 3.38938 l -0.57878,-3.85505 -3.44164,6.26317 h -1.69498 l 3.61734,-6.57322 c 0.52365,-0.91639 1.14377,-1.37804 1.86035,-1.38493 0.71657,0.007 1.14721,0.46851 1.2919,1.38493 l 1.00252,6.57322 h -1.69498 z"
+             style="font-style:italic;stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1179"
+             sodipodi:nodetypes="ccccccccccccc" />
+          <path
+             d="m 256.12613,115.68667 0.37207,-1.88102 q 0.16536,-0.81648 -0.33073,-1.30224 -0.31006,-0.32039 -0.78548,-0.32039 h -2.04638 l -1.03352,5.12628 h 2.04638 q 0.71313,0 1.28157,-0.64078 0.3824,-0.44442 0.49609,-0.98185 z m -4.38215,-3.48298 q 0.1447,-0.7028 0.82682,-1.11621 0.45475,-0.26872 0.94051,-0.26872 h 2.1394 q 1.28157,0 1.9947,0.90951 0.69246,0.86816 0.44442,2.07738 l -0.37207,1.88102 q -0.25838,1.2609 -1.34358,2.1394 -1.06454,0.84749 -2.29443,0.84749 h -3.62767 z"
+             style="font-style:italic;stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1181" />
+          <path
+             d="m 264.02225,115.68667 0.37207,-1.88102 q 0.16536,-0.81648 -0.33073,-1.30224 -0.31006,-0.32039 -0.78548,-0.32039 h -2.04638 l -1.03353,5.12628 h 2.04638 q 0.71314,0 1.28158,-0.64078 0.3824,-0.44442 0.49609,-0.98185 z m -4.38215,-3.48298 q 0.14469,-0.7028 0.82682,-1.11621 0.45475,-0.26872 0.94051,-0.26872 h 2.1394 q 1.28157,0 1.9947,0.90951 0.69246,0.86816 0.44442,2.07738 l -0.37207,1.88102 q -0.25838,1.2609 -1.34359,2.1394 -1.06453,0.84749 -2.29442,0.84749 h -3.62768 z"
+             style="font-style:italic;stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1183" />
+          <path
+             d="m 270.34744,114.2294 2.8732,-3.41064 h 1.69498 l -3.05924,3.7207 q -0.53743,0.64078 -0.9405,0.89916 l -0.65112,3.23494 h -1.59163 l 0.64078,-3.21427 q -0.34106,-0.28938 -0.60978,-0.91983 l -1.56062,-3.7207 h 1.69498 z"
+             style="font-style:italic;stroke:none;stroke-width:2.03604408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1185" />
         </g>
       </g>
     </g>

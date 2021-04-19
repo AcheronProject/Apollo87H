@@ -391,7 +391,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../apollo87h_31032021.step",
+      "step": "../release/apollo87h_v2.1.2_3dmodel.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

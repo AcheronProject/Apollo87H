@@ -7,7 +7,7 @@
   (title_block
     (title "Apollo87H PCB schematic")
     (date "2021-04-18")
-    (rev "v2.1.2")
+    (rev "v2.1.3")
     (company "Designed by Gondolindrim")
     (comment 1 "For the AcheronProject")
   )
@@ -10962,6 +10962,23 @@
     )
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 69.85 406.4 0) (unit 1)
+    (in_bom no) (on_board yes)
+    (uuid adac9a9f-15ed-4060-b078-959fdff7f9e9)
+    (property "Reference" "GR5" (id 0) (at 73.66 405.13 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "Apollo Label" (id 1) (at 73.66 407.67 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "apollo87h_kicad_library:apollo87h_label" (id 2) (at 69.85 406.4 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 69.85 406.4 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+  )
+
   (symbol (lib_id "Mechanical:MountingHole") (at 129.54 380.365 0) (unit 1)
     (in_bom no) (on_board yes)
     (uuid bfbf5030-785b-46c4-b4ba-1e471ecb2c20)
@@ -19767,6 +19784,9 @@
     )
     (path "/b1bf65c2-4d3a-4898-8c84-78648783861a"
       (reference "GR4") (unit 1) (value "Huge Apollo Logo") (footprint "apollo87h_kicad_library:apollo_logo_120x120mm")
+    )
+    (path "/adac9a9f-15ed-4060-b078-959fdff7f9e9"
+      (reference "GR5") (unit 1) (value "Apollo Label") (footprint "apollo87h_kicad_library:apollo87h_label")
     )
     (path "/5cbca273-a968-468f-aae1-41171a1b12ca"
       (reference "H1") (unit 1) (value "9774035243R") (footprint "acheron_Hardware:9774035243R")

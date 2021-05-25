@@ -374,8 +374,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "../apollo87hs_apr23.step",
+      "vrml": "../apollo87hs_apr24.wrl"
     },
     "page_layout_descr_file": ""
   },

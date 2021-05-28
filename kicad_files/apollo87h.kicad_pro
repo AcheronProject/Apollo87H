@@ -111,12 +111,12 @@
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.15239999999999998,
         "min_via_annular_width": 0.1016,
-        "min_via_diameter": 0.30479999999999996
+        "min_via_diameter": 0.30479999999999996,
+        "use_height_for_length_calcs": true
       },
       "track_widths": [
         0.0,
         0.1524,
-        0.2,
         0.254,
         0.508,
         1.016
@@ -391,7 +391,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../release/apollo87h_v2.1.3_3dmodel.step",
+      "step": "../apollo87h_v2.1.3_3dmodel.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -449,7 +449,8 @@
       "meta": {
         "version": 0
       },
-      "model_mode": 0
+      "model_mode": 0,
+      "workbook_filename": ""
     },
     "page_layout_descr_file": "",
     "plot_directory": "../release",

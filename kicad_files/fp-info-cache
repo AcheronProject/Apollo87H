@@ -1,4 +1,4 @@
-19148766692480021
+19150388887210996
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -81906,6 +81906,13 @@ resistor
 0
 2
 2
+acheron_Components
+HH-SMD6028RGBC-CA_reverse_mounted_6028_2.8x3.5mm
+
+
+0
+4
+4
 acheron_Components
 LED_RGB_SMD_6028_2.8x3.5mm
 

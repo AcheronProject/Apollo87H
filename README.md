@@ -29,7 +29,7 @@ Both Apollo and Athena line of PCBs were designed to be "universal" TKL PCBs, th
 
 ## Known compatibilities
 
-- **Geonworks F1-8X and F1-6X:** confirmed by Geon, who tested the PCB 3D files against the case 3D files. Live hardware testing into a machined case is pending.
+- **Geonworks F1-8X and F1-6X:** confirmed by Geon, who tested the PCB 3D files against the case 3D files; live testing into a machined case confirms compatibility.
 
 ### Known incompatibilities
 
@@ -42,6 +42,14 @@ Both Apollo and Athena line of PCBs were designed to be "universal" TKL PCBs, th
 - The first prototypes of this PCB were paid for and tested by KeebsForAll, who also intends to make units of this PCB available for purchase.
 
 - Geon, who kindly spent time helping design this PCB to fit his keyboards.
+
+- Xelus, who kindly volunteered to help write the QMK firmware.
+
+## Releases
+
+- **Alpha**: uses SK6812-mini-E LEDs for the per-key LEDs. Does not support RGB underglow, removable USB connector or daughterboard.
+
+- **Beta**: uses a more sophisticated IS31FL3741 RGB controller with common-anode RGB LEDs. Full-featured.
 
 ## Copyright notice
 

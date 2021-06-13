@@ -1,4 +1,4 @@
-(kicad_sch (version 20210406) (generator eeschema)
+(kicad_sch (version 20210606) (generator eeschema)
 
   (uuid cac53280-0cb3-46d1-85a6-feb33ccfa3b3)
 
@@ -7,7 +7,7 @@
   (title_block
     (title "Apollo87H PCB schematic")
     (date "2021-06-09")
-    (rev "v2.2.1")
+    (rev "v2.2.2")
     (company "Designed by Gondolindrim")
     (comment 1 "For the AcheronProject")
   )
@@ -19285,7 +19285,7 @@
     (property "LCSC Part Number" "C2678817" (id 7) (at 233.68 687.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Description" "39×9 dots matrix LED driver" (id 8) (at 233.68 687.07 0)
+    (property "Specification" "39×9 dots matrix LED driver" (id 9) (at 233.68 687.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 796c7a07-36a9-4593-b704-cba1b21cd569))

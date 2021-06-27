@@ -33,9 +33,9 @@
         "other_text_thickness": 0.19999999999999998,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.048,
-          "height": 3.048,
-          "width": 3.048
+          "drill": 3.9878,
+          "height": 3.9878,
+          "width": 3.9878
         },
         "silk_line_width": 0.19999999999999998,
         "silk_text_italic": false,
@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.35559999999999997
+          "min_clearance": 0.19999999999999998
         }
       },
       "diff_pair_dimensions": [
@@ -116,6 +116,8 @@
       },
       "track_widths": [
         0.0,
+        0.15,
+        0.2,
         0.25,
         0.5,
         1.0
@@ -360,7 +362,7 @@
     "classes": [
       {
         "bus_width": 12.0,
-        "clearance": 0.25,
+        "clearance": 0.2,
         "diff_pair_gap": 0.2,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -389,7 +391,44 @@
           "D+",
           "D-",
           "DBUS+",
-          "DBUS-"
+          "DBUS-",
+          "Net-(R11-Pad2)",
+          "Net-(R12-Pad1)",
+          "Net-(R13-Pad1)",
+          "Net-(R14-Pad1)",
+          "Net-(R15-Pad1)",
+          "Net-(R16-Pad1)",
+          "Net-(R17-Pad1)",
+          "Net-(R18-Pad1)",
+          "Net-(R19-Pad1)",
+          "Net-(R20-Pad1)",
+          "Net-(R21-Pad1)",
+          "Net-(R22-Pad1)",
+          "Net-(R23-Pad1)",
+          "Net-(R24-Pad1)",
+          "Net-(R25-Pad1)",
+          "Net-(R26-Pad1)",
+          "Net-(R27-Pad1)",
+          "Net-(R28-Pad1)",
+          "Net-(R29-Pad2)",
+          "Net-(R30-Pad1)",
+          "Net-(R31-Pad1)",
+          "Net-(R32-Pad1)",
+          "Net-(R33-Pad1)",
+          "Net-(R35-Pad1)",
+          "Net-(R36-Pad1)",
+          "Net-(R37-Pad1)",
+          "Net-(R38-Pad1)",
+          "Net-(R40-Pad1)",
+          "Net-(R41-Pad1)",
+          "Net-(R42-Pad1)",
+          "Net-(R43-Pad1)",
+          "Net-(R44-Pad1)",
+          "Net-(R45-Pad1)",
+          "Net-(R46-Pad1)",
+          "Net-(R47-Pad1)",
+          "Net-(R48-Pad1)",
+          "Net-(R49-Pad1)"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",

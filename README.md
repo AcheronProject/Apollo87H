@@ -49,7 +49,9 @@ Both Apollo and Athena line of PCBs were designed to be "universal" TKL PCBs, th
 
 - **Alpha**: uses SK6812-mini-E LEDs for the per-key LEDs. Does not support RGB underglow, removable USB connector or daughterboard.
 
-- **Beta**: uses a more sophisticated IS31FL3741 RGB controller with common-anode RGB LEDs. Full-featured.
+- **Beta**: uses a more sophisticated IS31FL3741 RGB controller with common-anode RGB LEDs. Full-featured. **Warning**: revision beta did not go past pre-release since mid-prototyping the factory changed constraints;
+
+- **Gamma**: same features as **Beta**; PCB constraints were changed to fit Elecrow's updated factory requirements.
 
 ## Copyright notice
 

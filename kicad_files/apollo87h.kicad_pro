@@ -33,9 +33,9 @@
         "other_text_thickness": 0.19999999999999998,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.9878,
-          "height": 3.9878,
-          "width": 3.9878
+          "drill": 3.048,
+          "height": 3.048,
+          "width": 3.048
         },
         "silk_line_width": 0.19999999999999998,
         "silk_text_italic": false,
@@ -503,7 +503,7 @@
     "meta": {
       "version": 0
     },
-    "net_format_name": "Pcbnew",
+    "net_format_name": "KiCad",
     "ngspice": {
       "meta": {
         "version": 0

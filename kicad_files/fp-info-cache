@@ -1,4 +1,4 @@
-19150470185164695
+19158653471595629
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -81851,13 +81851,6 @@ Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 
 2
 2
 acheron_Components
-D_SOD-123
-SOD-123
-SOD-123
-0
-2
-2
-acheron_Components
 D_SOD-123_Bidirectional
 SOD-123
 SOD-123
@@ -82082,12 +82075,47 @@ SOT-363 SC-70-6
 6
 6
 acheron_Components
+SSAL220100
+SPDT 10mA @ 5VDC 5V On-On SMD toggle switch
+
+0
+5
+4
+acheron_Components
+STM_UFQFPN-48-1EP_7x7mm_P0.5mm
+QFN, 48 Pin (http://www.thatcorp.com/datashts/THAT_626x_Datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+65
+49
+acheron_Components
+STM_UFQFPN-48-1EP_7x7mm_P0.5mm_HandSoldering
+QFN, 48 Pin (http://www.thatcorp.com/datashts/THAT_626x_Datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+65
+49
+acheron_Components
 TQPF-44_10x10mm_P0.8mm
 44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
 QFP 0.8
 0
 44
 44
+acheron_Components
+TSSOP-8_4.4x3mm_P0.65mm
+TSSOP, 8 Pin (JEDEC MO-153 Var AA https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+8
+8
+acheron_Components
+UDFN-8L_2x3mm_P0.5mm
+
+
+0
+9
+9
 acheron_Components
 UQFN-48-1EP_6x6mm_P0.4mm_EP4.62x4.62mm
 UQFN, 48 Pin (https://github.com/KiCad/kicad-symbols/pull/1189#issuecomment-449506354), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py

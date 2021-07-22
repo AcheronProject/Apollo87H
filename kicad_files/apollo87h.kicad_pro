@@ -416,9 +416,6 @@
           "Net-(R32-Pad1)",
           "Net-(R33-Pad1)",
           "Net-(R35-Pad1)",
-          "Net-(R36-Pad1)",
-          "Net-(R37-Pad1)",
-          "Net-(R38-Pad1)",
           "Net-(R40-Pad1)",
           "Net-(R41-Pad1)",
           "Net-(R42-Pad1)",
@@ -505,6 +502,8 @@
     },
     "net_format_name": "KiCad",
     "ngspice": {
+      "fix_include_paths": true,
+      "fix_passive_vals": false,
       "meta": {
         "version": 0
       },

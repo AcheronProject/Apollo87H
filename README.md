@@ -25,6 +25,10 @@ Both Apollo and Athena line of PCBs were designed to be "universal" TKL PCBs, th
 - Designer: Gondolindrim
 - License: Acheron Open-Source Hardware License version 1.3
 
+## Preliminary renders
+
+![image](https://github.com/Gondolindrim/file_hosting/blob/main/apollo87h_v3_renders.png?raw=true)
+
 ## Keyboard compatibility
 
 ## Known compatibilities

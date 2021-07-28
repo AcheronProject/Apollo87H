@@ -445,7 +445,7 @@
       "netlist": "",
       "specctra_dsn": "",
       "step": "../apollo87h_v2.2.3_3dmodel.step",
-      "vrml": ""
+      "vrml": "../../../../Downloads/apollo87h.wrl"
     },
     "page_layout_descr_file": ""
   },

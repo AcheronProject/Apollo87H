@@ -64,7 +64,7 @@
       36
     ],
     "visible_layers": "002d1ba_80000001",
-    "zone_display_mode": 0
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "apollo87h.kicad_prl",

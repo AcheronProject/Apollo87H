@@ -1,4 +1,4 @@
-19842968110065868
+19844598155951647
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84694,6 +84694,13 @@ QFN NoLead
 49
 acheron_Components
 STM_UFQFPN-48-1EP_7x7mm_P0.5mm_HandSoldering
+QFN, 48 Pin (http://www.thatcorp.com/datashts/THAT_626x_Datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+65
+49
+acheron_Components
+STM_UFQFPN-48_LQFP-48-1EP_7x7mm_P0.5mm_HandSoldering
 QFN, 48 Pin (http://www.thatcorp.com/datashts/THAT_626x_Datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 QFN NoLead
 0

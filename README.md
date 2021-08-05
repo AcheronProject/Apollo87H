@@ -6,12 +6,13 @@ Apollo is a tenkeyless (TKL) keyboard Printed Circuit Board (PCB) which main fea
 
 Both Apollo and Athena line of PCBs were designed to be "universal" TKL PCBs, that is, designed to fit a wide variety of custom mechanical keyboards. The compatibility list is being built as more people check and test. See the **Keyboard compatibility** section of this README for the available list.
 
-## Technical information
+## Technical information (latest release)
 
 - Layout size: tenkeykess (TKL)
 - Compatible switches: MX-like only, features hotswap sockets
-- Lighting: per-key RGB through SK6812 mini-E reverse-mounted diodes, no RGB underglow
-- Microcontroller: STM32F072CxT6 (x can be either 8 or B)
+- Lighting: per-key RGB through IS31FL3741A intelligent chip and common-annode RGB LEDs
+- Support for WS2812 RGB underglow through 4-pin JST
+- Microcontroller: STM32F411CEU6
 - Connector: detachable USB Type C on the top side and JST connector for daughterboard support
 - Firmware compatibility: QMK (with VIA support)
 - Protection hardware:
@@ -21,7 +22,7 @@ Both Apollo and Athena line of PCBs were designed to be "universal" TKL PCBs, th
   * Overcurrent protection
   * LDO crowbar diode
   * EMI suppression (shielding ferrite bead)
-- Current release: pre-release Alpha (has not been prototyped yet)
+- Current release: pre-release Gamma (has not been prototyped yet)
 - Designer: Gondolindrim
 - License: Acheron Open-Source Hardware License version 1.3
 

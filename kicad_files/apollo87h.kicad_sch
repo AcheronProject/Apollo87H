@@ -6,8 +6,8 @@
 
   (title_block
     (title "Apollo87H PCB schematic")
-    (date "2021-08-04")
-    (rev "v3.1.9")
+    (date "2021-08-05")
+    (rev "v3.1.10")
     (company "Designed by Gondolindrim")
     (comment 1 "For the AcheronProject")
   )
@@ -20288,7 +20288,7 @@
     (property "Value" "STM32F411CEU6" (id 1) (at 669.29 468.63 0)
       (effects (font (size 2.0066 2.0066) bold))
     )
-    (property "Footprint" "acheron_Components:STM_UFQFPN-48-1EP_7x7mm_P0.5mm_HandSoldering" (id 2) (at 668.02 480.695 0)
+    (property "Footprint" "acheron_Components:STM_UFQFPN-48_LQFP-48-1EP_7x7mm_P0.5mm_HandSoldering" (id 2) (at 668.02 480.695 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32f411ce.pdf" (id 3) (at 668.655 483.87 0)
@@ -21707,7 +21707,7 @@
       (reference "U2") (unit 1) (value "USBLC6-2SC6") (footprint "acheron_Components:SOT-23-6")
     )
     (path "/e49b41a5-1875-4528-91f1-ca75c07b77e0"
-      (reference "U3") (unit 1) (value "STM32F411CEU6") (footprint "acheron_Components:STM_UFQFPN-48-1EP_7x7mm_P0.5mm_HandSoldering")
+      (reference "U3") (unit 1) (value "STM32F411CEU6") (footprint "acheron_Components:STM_UFQFPN-48_LQFP-48-1EP_7x7mm_P0.5mm_HandSoldering")
     )
     (path "/d635e2e2-8279-4157-b203-fc0f1ac29524"
       (reference "U4") (unit 1) (value "MCP1700T-3302E/TT") (footprint "Package_TO_SOT_SMD:SOT-23")

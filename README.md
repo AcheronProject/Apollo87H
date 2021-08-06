@@ -12,7 +12,10 @@ Both Apollo and Athena line of PCBs were designed to be "universal" TKL PCBs, th
 - Compatible switches: MX-like only, features hotswap sockets
 - Lighting: per-key RGB through IS31FL3741A intelligent chip and common-annode RGB LEDs
 - Support for WS2812 RGB underglow through 4-pin JST
-- Microcontroller: STM32F411CEU6
+- Microcontroller: multi-chip ARM compatibility including:
+  * STM32F411 (CEU6/CET6)
+  * STM32F072 (CBT6/C8T6/CBU6/C8U6)
+  * STM32F303 (CBT6/CBU6/CCT6/C8T6/C6T6)
 - Connector: detachable USB Type C on the top side and JST connector for daughterboard support
 - Firmware compatibility: QMK (with VIA support)
 - Protection hardware:

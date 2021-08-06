@@ -1,0 +1,13 @@
+(footprint "rgb_daughterboard_notch_plated_8x4mm" (version 20210722) (generator pcbnew) (layer "F.Cu")
+  (tedit 610D9860)
+  (attr through_hole)
+  (fp_text reference "L3" (at 0 0) (layer "F.SilkS") hide
+    (effects (font (size 1.524 1.524) (thickness 0.3)))
+    (tstamp ceb589d9-b3d9-43ec-8a1e-5f334e2dce49)
+  )
+  (fp_text value "Acheron Logo" (at 0.75 0) (layer "F.SilkS") hide
+    (effects (font (size 1.524 1.524) (thickness 0.3)))
+    (tstamp 9bd8d6f8-1729-47c9-bc8e-2c8671215e05)
+  )
+  (pad "1" thru_hole oval (at 0 0) (size 4.5 8.5) (drill oval 4 8) (layers *.Cu *.Mask) (tstamp 3fbe8b69-47b9-49ff-acb1-f377dd6baad0))
+)

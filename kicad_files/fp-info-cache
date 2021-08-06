@@ -1,4 +1,4 @@
-19844598156298799
+19846233092949734
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84691,21 +84691,21 @@ QFN, 48 Pin (http://www.thatcorp.com/datashts/THAT_626x_Datasheet.pdf), generate
 QFN NoLead
 0
 65
-49
+48
 acheron_Components
 STM_UFQFPN-48-1EP_7x7mm_P0.5mm_HandSoldering
 QFN, 48 Pin (http://www.thatcorp.com/datashts/THAT_626x_Datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 QFN NoLead
 0
 65
-49
+48
 acheron_Components
 STM_UFQFPN-48_LQFP-48-1EP_7x7mm_P0.5mm_HandSoldering
 QFN, 48 Pin (http://www.thatcorp.com/datashts/THAT_626x_Datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 QFN NoLead
 0
 65
-49
+48
 acheron_Components
 TQPF-44_10x10mm_P0.8mm
 44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
@@ -85384,6 +85384,13 @@ apollo_logo_120x120mm
 
 0
 0
+0
+apollo87h_kicad_library
+rgb_daughterboard_notch_plated_8x4mm
+
+
+0
+1
 0
 apollo87h_kicad_library
 usbc_removal_mousebite

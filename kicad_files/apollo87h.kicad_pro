@@ -33,9 +33,9 @@
         "other_text_thickness": 0.19999999999999998,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 0.5,
-          "width": 0.5
+          "drill": 4.0,
+          "height": 8.5,
+          "width": 4.5
         },
         "silk_line_width": 0.19999999999999998,
         "silk_text_italic": false,
@@ -490,13 +490,14 @@
       "intersheets_ref_show": false,
       "intersheets_ref_suffix": "",
       "junction_size_choice": 3,
+      "label_size_ratio": 0.3,
       "pin_symbol_size": 25.0,
       "text_offset_ratio": 0.3
     },
     "legacy_lib_dir": "",
     "legacy_lib_list": [],
     "meta": {
-      "version": 0
+      "version": 1
     },
     "net_format_name": "KiCad",
     "ngspice": {

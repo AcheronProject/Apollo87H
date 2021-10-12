@@ -1,0 +1,54 @@
+Name:,Apollo87H PCB pre-Release Gamma Bill of Materials,,,,,,
+Date:,Fri 03 Sep 2021 02:44:26 PM -03,,,,,,
+Tool:,Eeschema (5.99.0-11763-gc80efb0f98),,,,,,
+Comments:,Designed by Gondolindrim for the Acheron Project,,,,,,
+Component Count:,358,,,,,,
+Unique component count:,46,,,,,,
+,,,,,,,
+Qty,Reference(s),Value,Manufacturer,Manufacturer Part Number,Package,Specification,Vendor Part Number
+2,"C1, C2",100n,,,C0805,MLCC 10V or more,
+9,"C3, C4, C5, C7, C13, C18, C19, C20, C21",100n,,,C0402,MLCC 10V or more,
+2,"C6, C17",4.7u,,,C0402,MLCC 10V or more,
+4,"C8, C22, C23, C24",1u,,,C0402,MLCC 10V or more,
+1,C9,10n,,,C0402,MLCC 10V or more,
+2,"C10, C11",1u,,,C3216,Tantallum 10V,
+1,C12,100n,,,C0805,MLCC 10V or more,
+2,"C14, C15",16p,,,C0402,MLCC 10V or more,
+1,C16,2.2u,,,C0402,MLCC 10V or more,
+1,D1,RB060M-60TR,ROHM,RB060M-60TR,SOD-123,Power schottky rectifier,LCSC C114257
+87,"D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D40, D41, D42, D43, D44, D45, D46, D47, D48, D49, D50, D51, D52, D53, D54, D55, D56, D57, D58, D59, D60, D61, D62, D63, D64, D65, D66, D67, D68, D69, D70, D71, D72, D73, D74, D75, D76, D77, D78, D79, D80, D81, D82, D83, D84, D85, D86, D87, D88",1N4148W,,,SOD-123,Small-signal switching diodes,
+87,"D89, D90, D91, D92, D93, D94, D95, D96, D97, D98, D99, D100, D101, D102, D103, D104, D105, D106, D107, D108, D109, D110, D111, D112, D113, D114, D115, D116, D117, D118, D119, D120, D121, D122, D123, D124, D125, D126, D127, D128, D129, D130, D131, D132, D133, D134, D135, D136, D137, D138, D139, D140, D141, D142, D143, D144, D145, D146, D147, D148, D149, D150, D151, D152, D153, D154, D155, D156, D157, D158, D159, D160, D161, D162, D163, D164, D165, D166, D167, D168, D169, D170, D171, D172, D173, D174, D175",HH-SMD6028RGBC-CA,Shenzhen Hanhua,HH-SMD6028RGBC-CA,6028,"Common-anode RGB led 6028 package, GRBA sequence",
+1,F1,mSMD110-16V,TECHFUSE,mSMD110-16V,F1812,"1.1A hold, 2.2A trip PTC resettable fuse",LCSC C69691
+2,"FB1, FB2",CBW201209U121T,Guangdong Fenghua Advanced Tech,CBW201209U121T,L0805,120R @ 100MHz ferrite bead,LCSC C139186
+1,H1,9774035243R,Wurth Elektronik,9774030243R,,3.5mm length M2 threaded surface mounted steel standoffs ,
+7,"H2, H3, H4, H5, H6, H7, H8",9774035243R,Wurth Elektronik,9774030243R,,3.5mm length M2 threaded surface mounted steel standoffs ,
+2,"J1, J3",SM04B-SRSS-TB(LF)(SN),JST,SM04B-SRSS-TB(LF)(SN),,Surface-mounted 4-pin wire-to-board female connector,LCSC C160404
+1,J2,TYPE-C-31-M12,Korean Hroparts,TYPE-C-31-M-12,8.94x7.3mm,16-pin USB type C female connector,LCSC C165948
+3,"R1, R2, R7",1.5k,,,R0402,,
+1,R3,10k,,,R0805,,
+2,"R4, R5",5.1k,,,R0805,,
+2,"R6, R8",10k,,,R0805,,
+2,"R9, R10",100k,,,R0805,,
+1,R11,100R,,,R0805,,
+12,"R12, R15, R18, R21, R26, R27, R32, R33, R37, R44, R48, R49",51R,,,R0402,,
+24,"R13, R14, R16, R17, R19, R20, R22, R23, R24, R25, R28, R29, R30, R31, R34, R36, R38, R39, R41, R43, R45, R46, R47, R50",20R,,,R0402,,
+2,"R35, R40",100k,,,R0402,,
+1,R42,20k,,,R0402,,
+2,"SW1, SW2",SSAL220100,ALPS,SSAL220100,Package,On-on SPDT slide switch,LCSC C278346 (https://lcsc.com/product-detail/Slide-Switches_ALPSALPINE-SSAL220100_C278346.html)
+1,SW3,K2-1187SQ-A4SW-06,Korean Hroparts,K2-1187SQ-A4SW-06,5.0x5.0mm,Surface-mounted SPST tactile push button,LCSC C92584
+72,"SW4, SW5, SW6, SW7, SW8, SW9, SW10, SW11, SW12, SW13, SW14, SW15, SW16, SW17, SW18, SW19, SW20, SW21, SW22, SW23, SW24, SW25, SW26, SW27, SW28, SW29, SW30, SW31, SW32, SW34, SW35, SW37, SW38, SW39, SW40, SW41, SW42, SW43, SW44, SW45, SW46, SW47, SW48, SW50, SW51, SW53, SW54, SW55, SW56, SW57, SW58, SW59, SW60, SW61, SW62, SW63, SW66, SW67, SW68, SW69, SW70, SW71, SW72, SW73, SW74, SW75, SW77, SW78, SW79, SW88, SW89, SW90",CPG151101S11,Kaihua,CPG151101S11,,"MX-style switch solderless (""hotswap"") socket",
+1,SW33,CPG151101S11,Kaihua,CPG151101S11,,"MX-style switch solderless (""hotswap"") socket",
+2,"SW36, SW49",CPG151101S11,Kaihua,CPG151101S11,,"MX-style switch solderless (""hotswap"") socket",
+1,SW52,CPG151101S11,Kaihua,CPG151101S11,,"MX-style switch solderless (""hotswap"") socket",
+1,SW64,CPG151101S11,Kaihua,CPG151101S11,,"MX-style switch solderless (""hotswap"") socket",
+1,SW65,CPG151101S11,Kaihua,CPG151101S11,,"MX-style switch solderless (""hotswap"") socket",
+1,SW76,CPG151101S11,Kaihua,CPG151101S11,,"MX-style switch solderless (""hotswap"") socket",
+5,"SW80, SW81, SW82, SW84, SW85",CPG151101S11,Kaihua,CPG151101S11,,"MX-style switch solderless (""hotswap"") socket",
+1,SW83,CPG151101S11,Kaihua,CPG151101S11,,"MX-style switch solderless (""hotswap"") socket",
+1,U1,TXS0101DBVR,Texas Instruments,TXS0101DBVR,SOT-23-6,1-bit bidirectional logic voltage level translator,LCSC C132604
+1,U2,USBLC6-2SC6,STMicroelectronics,USBLC6-2SC6,SOT-23-6,Unidirectional ESD TVS diode,LCSC C7519
+1,U3,STM32F411CEU6,STMicroelectronics,STM32F411,UFQFPN-48,32-bit ARM Cortex-M0+ 128kBytes flash microcontroller,LCSC C60420 (https://lcsc.com/product-detail/ST-Microelectronics_STMicroelectronics-STM32F411CEU6_C60420.html)
+1,U4,MCP1700T-3302E/TT,Microchip,MCP1700T-3302E/TT,SOT-23,3.3V fixed linear dropout regulator,LCSC C39051
+1,U5,BL24C256A-SFRC,Shanghai Belling,BL24C256A-SFRC,TSSOP-8,TSSOP-8 non-volatile 256Kb (32K x 8) I2C EEPROM,LCSC C691875 (https://lcsc.com/product-detail/EEPROM_BL-Shanghai-Belling-BL24C256A-NTRC_C691875.html)
+1,U6,IS31FL3741A,Lumissil,IS31FL3741A,QFN-60,39×9 dots matrix LED driver,"Mouser 870-IS31FL3741AQFLS4 (https://www.mouser.com/ProductDetail/Lumissil/IS31FL3741A-QFLS4-TR?qs=vHuUswq2%252BswTP7dMFLQAvQ%3D%3D) , Digikey 2521-IS31FL3741A-QFLS4 (https://www.digikey.com/en/products/detail/lumissil-microsystems/IS31FL3741A-QFLS4-TR/12675545)"
+1,Y1,7325-0800A2010-00,XTY,,Y_3225_4P,8MHz 3225-4P oscillator crystal,LCSC C389817 (https://lcsc.com/product-detail/Crystals_XTY-7325-0800A2010-00_C389817.html)

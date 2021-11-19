@@ -1,4 +1,4 @@
-19463679675904167
+19465341017497052
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83342,6 +83342,13 @@ SOP SO
 8
 8
 acheron_Components
+SOT-23-5
+6-pin SOT-23 package
+SOT-23-6
+0
+5
+5
+acheron_Components
 SOT-23-6
 6-pin SOT-23 package
 SOT-23-6
@@ -83432,27 +83439,6 @@ USON-10 2.5x1.0mm Pitch 0.5mm
 0
 10
 10
-acheron_Connectors
-Conn_ARM_JTAG_SWD_6
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-6
-6
-acheron_Connectors
-Conn_ARM_JTAG_SWD_10
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-10
-10
-acheron_Connectors
-Conn_AVR_ISP_6
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-6
-6
 acheron_Connectors
 Korean-Hroparts_ U-F-M5DD-W-2
 USB mini-B connector with THT mounting and SMD pins
@@ -83587,9 +83573,30 @@ Through hole pin header THT 1x14 2.54mm single row
 6
 6
 acheron_Connectors
+PinHeader_2x3_P2.54mm_Vertical_Staggered
+Through hole straight pin header, 2x3, 2.54mm pitch, single row, staggered
+
+0
+6
+6
+acheron_Connectors
+PinHeader_2x4_P2.54mm_Vertical_Staggered
+Through hole straight pin header, 2x4, 2.54mm pitch, staggered
+
+0
+8
+8
+acheron_Connectors
 PinHeader_2x5_P2.54mm_Vertical
 Through hole straight pin header, 1x14, 2.54mm pitch, single row
 Through hole pin header THT 1x14 2.54mm single row
+0
+10
+10
+acheron_Connectors
+PinHeader_2x5_P2.54mm_Vertical_Staggered
+Through hole straight pin header, 2x5, 2.54mm pitch, staggered
+
 0
 10
 10

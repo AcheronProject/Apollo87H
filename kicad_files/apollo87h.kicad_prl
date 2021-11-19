@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 44,
+    "active_layer": 31,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_nets": [],
@@ -63,7 +63,7 @@
       36
     ],
     "visible_layers": "003dbfa_80000001",
-    "zone_display_mode": 0
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "apollo87h.kicad_prl",

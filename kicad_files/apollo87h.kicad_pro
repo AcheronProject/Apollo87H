@@ -33,9 +33,9 @@
         "other_text_thickness": 0.19999999999999998,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.0,
-          "height": 5.3,
-          "width": 5.3
+          "drill": 0.0,
+          "height": 1.8,
+          "width": 1.2
         },
         "silk_line_width": 0.19999999999999998,
         "silk_text_italic": false,
@@ -389,7 +389,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../apollo87h_v3.1.10_3dmodel.step",
+      "step": "../apollo87h_nov26.step",
       "vrml": "../../../../Downloads/aa/apollo87h.wrl"
     },
     "page_layout_descr_file": ""

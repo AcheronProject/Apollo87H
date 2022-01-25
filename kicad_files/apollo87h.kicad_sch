@@ -6,8 +6,8 @@
 
   (title_block
     (title "Apollo87H PCB schematic")
-    (date "2022-01-11")
-    (rev "v4.1.7")
+    (date "2022-01-25")
+    (rev "v4.1.8")
     (company "Designed by Gondolindrim")
     (comment 1 "For the AcheronProject")
   )
